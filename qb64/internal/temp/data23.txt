@@ -1,0 +1,51 @@
+qbs *_FUNC_REMCONTAINER_STRING_REMCONTAINER=NULL;
+if (!_FUNC_REMCONTAINER_STRING_REMCONTAINER)_FUNC_REMCONTAINER_STRING_REMCONTAINER=qbs_new(0,0);
+qbs*oldstr2837=NULL;
+if(_FUNC_REMCONTAINER_STRING_TEXT->tmp||_FUNC_REMCONTAINER_STRING_TEXT->fixed||_FUNC_REMCONTAINER_STRING_TEXT->readonly){
+oldstr2837=_FUNC_REMCONTAINER_STRING_TEXT;
+if (oldstr2837->cmem_descriptor){
+_FUNC_REMCONTAINER_STRING_TEXT=qbs_new_cmem(oldstr2837->len,0);
+}else{
+_FUNC_REMCONTAINER_STRING_TEXT=qbs_new(oldstr2837->len,0);
+}
+memcpy(_FUNC_REMCONTAINER_STRING_TEXT->chr,oldstr2837->chr,oldstr2837->len);
+}
+qbs*oldstr2838=NULL;
+if(_FUNC_REMCONTAINER_STRING_S->tmp||_FUNC_REMCONTAINER_STRING_S->fixed||_FUNC_REMCONTAINER_STRING_S->readonly){
+oldstr2838=_FUNC_REMCONTAINER_STRING_S;
+if (oldstr2838->cmem_descriptor){
+_FUNC_REMCONTAINER_STRING_S=qbs_new_cmem(oldstr2838->len,0);
+}else{
+_FUNC_REMCONTAINER_STRING_S=qbs_new(oldstr2838->len,0);
+}
+memcpy(_FUNC_REMCONTAINER_STRING_S->chr,oldstr2838->chr,oldstr2838->len);
+}
+qbs*oldstr2839=NULL;
+if(_FUNC_REMCONTAINER_STRING_E->tmp||_FUNC_REMCONTAINER_STRING_E->fixed||_FUNC_REMCONTAINER_STRING_E->readonly){
+oldstr2839=_FUNC_REMCONTAINER_STRING_E;
+if (oldstr2839->cmem_descriptor){
+_FUNC_REMCONTAINER_STRING_E=qbs_new_cmem(oldstr2839->len,0);
+}else{
+_FUNC_REMCONTAINER_STRING_E=qbs_new(oldstr2839->len,0);
+}
+memcpy(_FUNC_REMCONTAINER_STRING_E->chr,oldstr2839->chr,oldstr2839->len);
+}
+double *_FUNC_REMCONTAINER_DOUBLE_INDEX=NULL;
+if(_FUNC_REMCONTAINER_DOUBLE_INDEX==NULL){
+_FUNC_REMCONTAINER_DOUBLE_INDEX=(double*)mem_static_malloc(8);
+*_FUNC_REMCONTAINER_DOUBLE_INDEX=0;
+}
+long double fornext_value2841;
+long double fornext_finalvalue2841;
+long double fornext_step2841;
+uint8 fornext_step_negative2841;
+byte_element_struct *byte_element_2842=NULL;
+if (!byte_element_2842){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2842=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2842=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_FUNC_REMCONTAINER_STRING_CHUNK=NULL;
+if (!_FUNC_REMCONTAINER_STRING_CHUNK)_FUNC_REMCONTAINER_STRING_CHUNK=qbs_new(0,0);
+byte_element_struct *byte_element_2844=NULL;
+if (!byte_element_2844){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2844=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2844=(byte_element_struct*)mem_static_malloc(12);
+}

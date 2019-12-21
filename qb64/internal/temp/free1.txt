@@ -1,0 +1,5 @@
+if(oldstr2734){
+if(oldstr2734->fixed)qbs_set(oldstr2734,_SUB_CHECKHR_STRING_NAM);
+qbs_free(_SUB_CHECKHR_STRING_NAM);
+}
+qbs_free(_SUB_CHECKHR_STRING_ERROR);

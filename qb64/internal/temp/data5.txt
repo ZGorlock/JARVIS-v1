@@ -1,0 +1,23 @@
+double *_FUNC_ALPHABETIZE_DOUBLE_ALPHABETIZE=NULL;
+if(_FUNC_ALPHABETIZE_DOUBLE_ALPHABETIZE==NULL){
+_FUNC_ALPHABETIZE_DOUBLE_ALPHABETIZE=(double*)mem_static_malloc(8);
+*_FUNC_ALPHABETIZE_DOUBLE_ALPHABETIZE=0;
+}
+double *_FUNC_ALPHABETIZE_DOUBLE_A=NULL;
+if(_FUNC_ALPHABETIZE_DOUBLE_A==NULL){
+_FUNC_ALPHABETIZE_DOUBLE_A=(double*)mem_static_malloc(8);
+*_FUNC_ALPHABETIZE_DOUBLE_A=0;
+}
+long double fornext_value2782;
+long double fornext_finalvalue2782;
+long double fornext_step2782;
+uint8 fornext_step_negative2782;
+double *_FUNC_ALPHABETIZE_DOUBLE_A2=NULL;
+if(_FUNC_ALPHABETIZE_DOUBLE_A2==NULL){
+_FUNC_ALPHABETIZE_DOUBLE_A2=(double*)mem_static_malloc(8);
+*_FUNC_ALPHABETIZE_DOUBLE_A2=0;
+}
+long double fornext_value2784;
+long double fornext_finalvalue2784;
+long double fornext_step2784;
+uint8 fornext_step_negative2784;

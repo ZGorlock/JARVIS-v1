@@ -1,0 +1,32 @@
+qbs *_FUNC_URLENCODE_STRING_URLENCODE=NULL;
+if (!_FUNC_URLENCODE_STRING_URLENCODE)_FUNC_URLENCODE_STRING_URLENCODE=qbs_new(0,0);
+qbs*oldstr2861=NULL;
+if(_FUNC_URLENCODE_STRING_TEXT->tmp||_FUNC_URLENCODE_STRING_TEXT->fixed||_FUNC_URLENCODE_STRING_TEXT->readonly){
+oldstr2861=_FUNC_URLENCODE_STRING_TEXT;
+if (oldstr2861->cmem_descriptor){
+_FUNC_URLENCODE_STRING_TEXT=qbs_new_cmem(oldstr2861->len,0);
+}else{
+_FUNC_URLENCODE_STRING_TEXT=qbs_new(oldstr2861->len,0);
+}
+memcpy(_FUNC_URLENCODE_STRING_TEXT->chr,oldstr2861->chr,oldstr2861->len);
+}
+double *_FUNC_URLENCODE_DOUBLE_A=NULL;
+if(_FUNC_URLENCODE_DOUBLE_A==NULL){
+_FUNC_URLENCODE_DOUBLE_A=(double*)mem_static_malloc(8);
+*_FUNC_URLENCODE_DOUBLE_A=0;
+}
+long double fornext_value2863;
+long double fornext_finalvalue2863;
+long double fornext_step2863;
+uint8 fornext_step_negative2863;
+byte_element_struct *byte_element_2864=NULL;
+if (!byte_element_2864){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2864=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2864=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_FUNC_URLENCODE_STRING_A=NULL;
+if (!_FUNC_URLENCODE_STRING_A)_FUNC_URLENCODE_STRING_A=qbs_new(0,0);
+double *_FUNC_URLENCODE_DOUBLE_L=NULL;
+if(_FUNC_URLENCODE_DOUBLE_L==NULL){
+_FUNC_URLENCODE_DOUBLE_L=(double*)mem_static_malloc(8);
+*_FUNC_URLENCODE_DOUBLE_L=0;
+}

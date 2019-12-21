@@ -1,0 +1,14 @@
+alarms.bas
+clock.bas
+digitalclock.bas
+fractal.bas
+JARVI.bas
+JARVIS.bas
+JARVISboard.bas
+log.bas
+packuninstaller.bas
+polarclock.bas
+qb64.bas
+quadratic.bas
+report.bas
+startuptime.bas

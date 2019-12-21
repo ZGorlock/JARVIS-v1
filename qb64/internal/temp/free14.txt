@@ -1,0 +1,1 @@
+qbs_free(_FUNC_HEXQ_STRING_T);

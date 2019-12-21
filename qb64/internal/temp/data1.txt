@@ -1,0 +1,12 @@
+qbs*oldstr2734=NULL;
+if(_SUB_CHECKHR_STRING_NAM->tmp||_SUB_CHECKHR_STRING_NAM->fixed||_SUB_CHECKHR_STRING_NAM->readonly){
+oldstr2734=_SUB_CHECKHR_STRING_NAM;
+if (oldstr2734->cmem_descriptor){
+_SUB_CHECKHR_STRING_NAM=qbs_new_cmem(oldstr2734->len,0);
+}else{
+_SUB_CHECKHR_STRING_NAM=qbs_new(oldstr2734->len,0);
+}
+memcpy(_SUB_CHECKHR_STRING_NAM->chr,oldstr2734->chr,oldstr2734->len);
+}
+qbs *_SUB_CHECKHR_STRING_ERROR=NULL;
+if (!_SUB_CHECKHR_STRING_ERROR)_SUB_CHECKHR_STRING_ERROR=qbs_new(0,0);

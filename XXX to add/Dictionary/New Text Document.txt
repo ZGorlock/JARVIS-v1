@@ -1,0 +1,310 @@
+'public domain
+'$include:'wn.bi'
+'$include:'peekpoke.bi' ' http://www.qb64.net/forum/index.php?topic=4491.0
+
+
+
+DECLARE CUSTOMTYPE LIBRARY
+    SUB memcpy (BYVAL dest~%&, BYVAL src~%&, BYVAL count~%&) 'discard return value
+END DECLARE
+CONST PtrSize = 4
+
+DIM pIndex AS _UNSIGNED _OFFSET
+DIM pSynset AS _UNSIGNED _OFFSET
+DIM p AS _UNSIGNED _OFFSET
+DIM SHARED MyIndex AS Index
+DIM SHARED MySynset AS Synset
+DIM searchstr AS STRING
+DIM i AS LONG, x AS LONG, y AS LONG
+DIM speech(0 TO 4)
+
+WIDTH 80, 64
+
+wn_install_errmessage_handler
+IF wninit THEN END
+
+DO
+    CLS
+    LINE INPUT "searchstr: "; searchstr
+    IF 0 = LEN(searchstr) THEN EXIT DO
+    searchstr = searchstr + CHR$(0)
+    FOR i = 1 TO 4
+        '        CLS
+        pIndex = index_lookup(_OFFSET(searchstr), i)
+        IF pIndex THEN
+            '            COLOR 15, 1
+            '            PRINT "Index for "; gpos(i)
+            '            COLOR 7, 0
+            memcpy _OFFSET(MyIndex), pIndex, LEN(MyIndex)
+            '            dispIndex
+            '            PRINT "Press any key..."
+            '            SLEEP
+            '            WHILE LEN(INKEY$)
+            '            WEND
+            FOR x = 0 TO MyIndex.off_cnt - 1
+                y = 0
+                pSynset = read_synset(i, peekd(4 * x + MyIndex.offset), _OFFSET(searchstr))
+                p = pSynset
+                DO WHILE p
+                    '                    CLS
+                    '                    COLOR 15, 4
+                    '                    PRINT "Synset"; x; y
+                    '                    COLOR 7, 0
+                    memcpy _OFFSET(MySynset), p, LEN(MySynset)
+                    dispSynset
+                    p = MySynset.nextss
+                    '                    PRINT "Press any key..."
+                    '                    SLEEP
+                    '                    WHILE LEN(INKEY$)
+                    '                    WEND
+                    y = y + 1
+                LOOP
+                free_synset pSynset
+            NEXT
+            free_index pIndex
+        END IF
+    NEXT
+    SLEEP
+LOOP
+END
+
+'$include:'peekstr.bi'
+'$include:'hexx.bi'
+
+SUB dispIndex
+DIM i AS LONG
+'PRINT "    long idxoffset;  /* byte offset of entry in index file */"
+'PRINT MyIndex.idxoffset
+'PRINT
+'PRINT "    char *wd;   /* word string */"
+'PRINT "0x" + hexp(MyIndex.wd); " --> ";
+'PRINT CHR$(&H22) + peekstr(MyIndex.wd) + CHR$(&H22)
+'PRINT
+'PRINT "    char *pos;   /* part of speech */"
+'PRINT "0x" + hexp(MyIndex.pos); " --> ";
+'PRINT CHR$(&H22) + peekstr(MyIndex.pos) + CHR$(&H22)
+'PRINT
+'PRINT "    int sense_cnt;  /* sense (collins) count */"
+'PRINT MyIndex.sense_cnt
+'PRINT
+'PRINT "    int off_cnt;  /* number of offsets */"
+'PRINT MyIndex.off_cnt
+'PRINT
+'PRINT "    int tagged_cnt;  /* number senses that are tagged */"
+'PRINT MyIndex.tagged_cnt
+'PRINT
+'PRINT "    unsigned long *offset; /* offsets of synsets containing word */"
+'PRINT "0x" + hexp(MyIndex.offset); " --> ";
+'FOR i = 0 TO MyIndex.off_cnt - 1
+'    PRINT hexd(peekd(4 * i + MyIndex.offset)); ",";
+'NEXT
+'PRINT
+'PRINT
+'PRINT "    int ptruse_cnt;  /* number of pointers used */"
+'PRINT MyIndex.ptruse_cnt
+'PRINT
+'PRINT "    int *ptruse;  /* pointers used */"
+'PRINT "0x" + hexp(MyIndex.ptruse); " --> ";
+'FOR i = 0 TO MyIndex.ptruse_cnt - 1
+'    PRINT gptr(peekd(4 * i + MyIndex.ptruse)); ", ";
+'NEXT i
+'PRINT
+END SUB
+
+SUB dispSynset
+DIM i AS LONG
+'PRINT "    long hereiam;  /* current file position */"
+'PRINT MySynset.hereiam
+'PRINT "    int sstype;   /* type of ADJ synset */"
+'PRINT MySynset.sstype
+'PRINT "    int fnum;   /* file number that synset comes from */"
+'PRINT MySynset.fnum
+'PRINT "    char *pos;   /* part of speech */"
+'PRINT "0x" + hexp(MySynset.pos); " --> "; CHR$(&H22) + peekstr(MySynset.pos) + CHR$(&H22)
+'PRINT "    int wcount;   /* number of words in synset */"
+'PRINT MySynset.wcount
+'PRINT "    char **words;  /* words in synset */"
+'PRINT "0x" + hexp(MySynset.words); " --" + CHR$(&H19)
+'FOR i = 0 TO MySynset.wcount - 1
+'    PRINT "0x" + hexp(PtrSize * i + peekp(MySynset.words)); " --> ";
+'    PRINT CHR$(&H22) + peekstr(peekp(PtrSize * i + MySynset.words)) + CHR$(&H22)
+'NEXT
+'PRINT "    int *lexid;   /* unique id in lexicographer file */"
+'PRINT "0x" + hexp(MySynset.lexid); " --> ";
+'FOR i = 0 TO MySynset.wcount - 1
+'    PRINT peekd(4 * i + MySynset.lexid); ",";
+'NEXT
+'PRINT
+'PRINT "    int *wnsns;   /* sense number in wordnet */"
+'PRINT "0x" + hexp(MySynset.wnsns); " --> ";
+'FOR i = 0 TO MySynset.wcount - 1
+'    PRINT peekd(4 * i + MySynset.wnsns); ",";
+'NEXT
+'PRINT
+'PRINT "    int whichword;  /* which word in synset we're looking for */"
+'PRINT MySynset.whichword
+'PRINT "    int ptrcount;  /* number of pointers */"
+'PRINT MySynset.ptrcount
+'PRINT "    int *ptrtyp;  /* pointer types */"
+'PRINT "0x" + hexp(MySynset.ptrtyp); " --> ";
+'FOR i = 0 TO MySynset.ptrcount - 1
+'    PRINT gptr(peekd(4 * i + MySynset.ptrtyp)); ", ";
+'NEXT
+'PRINT
+'PRINT "    long *ptroff;  /* pointer offsets */"
+'PRINT "0x" + hexp(MySynset.ptroff); " --> ";
+'FOR i = 0 TO MySynset.ptrcount - 1
+'    PRINT peekd(4 * i + MySynset.ptroff); ",";
+'NEXT
+'PRINT
+'PRINT "    int *ppos;   /* pointer part of speech */"
+'PRINT "0x" + hexp(MySynset.ppos); " --> ";
+'FOR i = 0 TO MySynset.ptrcount - 1
+'    PRINT gpos(peekd(4 * i + MySynset.ppos)); ", ";
+'NEXT
+'PRINT
+'PRINT "    int *pto;   /* pointer 'to' fields */"
+'PRINT "0x" + hexp(MySynset.pto); " --> ";
+'FOR i = 0 TO MySynset.ptrcount - 1
+'    PRINT peekd(4 * i + MySynset.pto); ",";
+'NEXT
+'PRINT
+'PRINT "    int *pfrm;   /* pointer 'from' fields */"
+'PRINT "0x" + hexp(MySynset.pfrm); " --> ";
+'FOR i = 0 TO MySynset.ptrcount - 1
+'    PRINT peekd(4 * i + MySynset.pfrm); ",";
+'NEXT
+'PRINT
+'PRINT "    int fcount;   /* number of verb frames */"
+'PRINT MySynset.fcount
+'PRINT "    int *frmid;   /* frame numbers */"
+'PRINT "0x" + hexp(MySynset.frmid); " --> ";
+'FOR i = 0 TO MySynset.fcount - 1
+'    PRINT peekd(4 * i + MySynset.frmid); ",";
+'NEXT
+'PRINT
+'PRINT "    int *frmto;   /* frame 'to' fields */"
+'PRINT "0x" + hexp(MySynset.frmto); " --> ";
+'FOR i = 0 TO MySynset.fcount - 1
+'    PRINT peekd(4 * i + MySynset.frmto); ",";
+'NEXT
+'PRINT
+'PRINT "    char *defn;   /* synset gloss (definition) */"
+'PRINT "0x" + hexp(MySynset.defn); " --> ";
+PRINT CHR$(&H22) + peekstr(MySynset.defn) + CHR$(&H22)
+'PRINT "    unsigned int key;  /* unique synset key */"
+'PRINT MySynset.key
+'PRINT "    Synset *nextss;  /* ptr to next synset containing searchword */"
+'PRINT "0x" + hexp(MySynset.nextss);
+'PRINT "    Synset *nextform; /* ptr to list of synsets for alternate"
+'PRINT "       spelling of wordform */"
+'PRINT "0x" + hexp(MySynset.nextform);
+'PRINT "    int searchtype;  /* type of search performed */"
+'PRINT MySynset.searchtype
+'PRINT "    Synset *ptrlist;  /* ptr to synset list result of search */"
+'PRINT "0x" + hexp(MySynset.ptrlist);
+'PRINT "    char *headword;  /* if pos is " + CHR$(&H22) + "s" + CHR$(&H22) + ", this is cluster head word */"
+'PRINT "0x" + hexp(MySynset.headword); " --> ";
+'IF MySynset.headword THEN PRINT CHR$(&H22) + peekstr(MySynset.headword) + CHR$(&H22);
+'PRINT
+'PRINT "    short headsense;  /* sense number of headword */"
+'PRINT MySynset.headsense
+END SUB
+
+FUNCTION gpos$ (i&)
+SELECT CASE i&
+    CASE NOUN
+        t$ = "NOUN"
+    CASE VERB
+        t$ = "VERB"
+    CASE ADJ
+        t$ = "ADJ"
+    CASE ADV
+        t$ = "ADV"
+END SELECT
+gpos$ = t$
+END FUNCTION
+
+FUNCTION gptr$ (i&)
+SELECT CASE i&
+    CASE ANTPTR
+        t$ = "ANTPTR"
+    CASE HYPERPTR
+        t$ = "HYPERPTR"
+    CASE HYPOPTR
+        t$ = "HYPOPTR"
+    CASE ENTAILPTR
+        t$ = "ENTAILPTR"
+    CASE SIMPTR
+        t$ = "SIMPTR"
+    CASE ISMEMBERPTR
+        t$ = "ISMEMBERPTR"
+    CASE ISSTUFFPTR
+        t$ = "ISSTUFFPTR"
+    CASE ISPARTPTR
+        t$ = "ISPARTPTR"
+    CASE HASMEMBERPTR
+        t$ = "HASMEMBERPTR"
+    CASE HASSTUFFPTR
+        t$ = "HASSTUFFPTR"
+    CASE HASPARTPTR
+        t$ = "HASPARTPTR"
+    CASE MERONYM
+        t$ = "MERONYM"
+    CASE HOLONYM
+        t$ = "HOLONYM"
+    CASE CAUSETO
+        t$ = "CAUSETO"
+    CASE PPLPTR
+        t$ = "PPLPTR"
+    CASE SEEALSOPTR
+        t$ = "SEEALSOPTR"
+    CASE PERTPTR
+        t$ = "PERTPTR"
+    CASE ATTRIBUTE
+        t$ = "ATTRIBUTE"
+    CASE VERBGROUP
+        t$ = "VERBGROUP"
+    CASE DERIVATION
+        t$ = "DERIVATION"
+    CASE CLASSIFICATION
+        t$ = "CLASSIFICATION"
+    CASE CLASS
+        t$ = "CLASS"
+    CASE SYNS
+        t$ = "SYNS"
+    CASE FREQ
+        t$ = "FREQ"
+    CASE FRAMES
+        t$ = "FRAMES"
+    CASE COORDS
+        t$ = "COORDS"
+    CASE RELATIVES
+        t$ = "RELATIVES"
+    CASE HMERONYM
+        t$ = "HMERONYM"
+    CASE HHOLONYM
+        t$ = "HHOLONYM"
+    CASE WNGREP
+        t$ = "WNGREP"
+    CASE OVERVIEW
+        t$ = "OVERVIEW"
+    CASE CLASSIF_CATEGORY
+        t$ = "CLASSIF_CATEGORY"
+    CASE CLASSIF_USAGE
+        t$ = "CLASSIF_USAGE"
+    CASE CLASSIF_REGIONAL
+        t$ = "CLASSIF_REGIONAL"
+    CASE CLASS_CATEGORY
+        t$ = "CLASS_CATEGORY"
+    CASE CLASS_USAGE
+        t$ = "CLASS_USAGE"
+    CASE CLASS_REGIONAL
+        t$ = "CLASS_REGIONAL"
+    CASE INSTANCE
+        t$ = "INSTANCE"
+    CASE INSTANCES
+        t$ = "INSTANCES"
+END SELECT
+gptr$ = t$
+END FUNCTION

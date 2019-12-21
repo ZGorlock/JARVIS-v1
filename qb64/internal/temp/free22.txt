@@ -1,0 +1,4 @@
+if(oldstr2836){
+if(oldstr2836->fixed)qbs_set(oldstr2836,_FUNC_REMARBITRARYWORDS_STRING_TEXT);
+qbs_free(_FUNC_REMARBITRARYWORDS_STRING_TEXT);
+}

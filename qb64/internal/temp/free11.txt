@@ -1,0 +1,8 @@
+if(oldstr2810){
+if(oldstr2810->fixed)qbs_set(oldstr2810,_FUNC_DESERIALIZE_STRING_TEXT);
+qbs_free(_FUNC_DESERIALIZE_STRING_TEXT);
+}
+if(oldstr2811){
+if(oldstr2811->fixed)qbs_set(oldstr2811,_FUNC_DESERIALIZE_STRING_CHUNK);
+qbs_free(_FUNC_DESERIALIZE_STRING_CHUNK);
+}

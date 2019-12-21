@@ -1,0 +1,364 @@
+IP:98.230.75.166
+
+hey, testing
+good itde
+by
+
+
+
+
+
+
+
+
+
+jarvis.ini
+
+[Settings]
+D:\Coding\QB64\Projects\Major\JARVIS\JARVIS
+11-17-2012
+21:32:19
+77540
+#00000000000000000000000000000000
+sir
+1
+10
+1
+10
+1
+0
+0
+1
+8192
+D:\My Pictures\Screenshots\
+.png
+32
+32
+1280
+1024
+1280
+934
+7
+255
+D:\
+D:\Downloads\
+1
+0
+C:\Documents and Settings\All Users\Start Menu\Programs
+D:\My Music\Music
+.5
+6771
+339
+ZGorlock@gmail.com
+32312
+
+
+
+Custom Commands:
+
+..\packs\maplestory\include\customcmd.bas
+'$include:'..\packs\maplestory\source\maplestory_pack.bas'
+
+
+log.jdf
+
+11-21-2012 -- 12:12
+USER  : movement for computer
+JARVIS: yes sir
+USER  : what time is in the
+JARVIS: it is currently 12:12 PM
+USER  : movement move move to
+USER  : what is the date
+JARVIS: it is currently 11-21-2012
+USER  : and moving first movie
+USER  : is
+USER  : high and
+USER  : hide
+USER  : open my documents
+JARVIS: opening my documents
+USER  : movement
+USER  : with the we'll test manager
+USER  : the
+USER  : task manager
+JARVIS: launching task manager
+USER  : for for some were
+USER  : thank you
+JARVIS: you are welcome sir
+11-21-2012 -- 12:13
+USER  : for
+USER  : an
+USER  : it
+USER  : one of relief, makes the bird this
+USER  : by
+USER  : and so i want
+USER  : he's for it
+USER  : for
+USER  : computer
+JARVIS: yes sir
+USER  : for run format factory
+USER  : the show
+USER  : run format factory
+USER  : and it's
+USER  : computer
+JARVIS: yes sir
+USER  : for start format factory
+USER  : launch for rent and three
+USER  : will
+11-21-2012 -- 12:14
+USER  : pay, though
+USER  : reposition
+JARVIS: repositioning
+USER  : move in
+USER  : bloom it is a boy who
+USER  : blew and were
+USER  : computer
+JARVIS: yes sir
+USER  : used for below
+USER  : blue will
+USER  : the yellow
+USER  : shirt firms
+USER  : dark
+USER  : and,-
+USER  : enable the brown doing a slight by sixteen,
+USER  : resign but with red
+USER  : dork
+USER  : white
+USER  : and the
+11-21-2012 -- 12:15
+USER  : red and in the
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : dark
+USER  : white
+USER  : light
+USER  : dark
+USER  : green said
+USER  : in a healthy that
+USER  : anti recycle bin
+JARVIS: opening recycle bin
+USER  : that's it will close the trash computer
+JARVIS: closing foreground window
+USER  : and minimize
+JARVIS: minimizing foreground window
+USER  : moving
+USER  : hide
+USER  : it
+USER  : i did some time seeking a dozen of this offering to close for windows and
+JARVIS: it is currently 12:15 PM
+USER  : it said to
+USER  : kb
+USER  : and
+11-21-2012 -- 12:16
+USER  : empty recycle bin it
+JARVIS: emptying recycle bin
+USER  : for a moment
+USER  : you
+USER  : but we're
+USER  : , the first
+USER  : , mmm three
+USER  : sierra at fort worth, it's slowly all were in line, were she's
+JARVIS: select all
+USER  : for movement of the
+USER  : size of
+USER  : his
+USER  : five
+USER  : computer and
+JARVIS: yes sir
+USER  : for this book
+11-21-2012 -- 12:17
+USER  : face book
+JARVIS: opening facebook
+USER  : moving for
+USER  : insert for a
+USER  : good
+JARVIS: indeed
+USER  : venture, and
+USER  : -but in
+USER  : it and
+USER  : in
+USER  : news for
+USER  : computer
+JARVIS: yes sir
+USER  : user search for chan
+JARVIS: searching for chan
+USER  : for movement to
+11-21-2012 -- 12:18
+USER  : move in
+USER  : this
+USER  : year's in the
+USER  : computer
+JARVIS: yes sir
+USER  : user search be
+JARVIS: searching be
+USER  : for for
+USER  : it in his/eights, and his they slash and
+USER  : live in computer
+JARVIS: opening windows live
+USER  : moving
+USER  : them into
+USER  : 
+
+USER  : and compete in computer
+JARVIS: yes sir
+USER  : users delete
+JARVIS: deleting
+USER  : going begin dictation
+JARVIS: dictation started
+USER  : , and
+USER  : slashing bee/
+USER  : and dictation
+USER  : stop dictation
+JARVIS: dictation stopped
+USER  : enter
+11-21-2012 -- 12:19
+USER  : will fit
+USER  : to go
+USER  : in and
+USER  : set time referred ten seconds
+JARVIS: it is currently 12:19 PM
+USER  : , to move moving fast show
+USER  : and since she uses for his new in
+USER  : computer in this computer
+JARVIS: yes sir
+JARVIS: yes sir
+USER  : used for for balog
+USER  : log
+JARVIS: opening log
+USER  : moving users and
+11-21-2012 -- 12:20
+USER  : a db resume his wallet and for
+USER  : their clear log
+JARVIS: the log is used to help me learn in future update, are you sure you want to clear it?
+USER  : computer
+JARVIS: yes sir
+USER  : it for what it
+USER  : .  it were
+USER  : in line for league hitters line
+USER  : as india but the agency control a control and it with computer
+JARVIS: yes sir
+USER  : to do have to move into a move for
+USER  : for yes for
+USER  : computer
+JARVIS: yes sir
+USER  : and computer
+JARVIS: yes sir
+USER  : user show
+USER  : for it
+USER  : knew it and
+11-21-2012 -- 12:21
+USER  : movement for
+USER  : reposition middle
+JARVIS: repositioning
+USER  : moving
+USER  : a
+USER  : what is my name
+JARVIS: your name is sir
+USER  : move for
+USER  : change my name to master
+JARVIS: your name is sir
+USER  : move for
+USER  : my name is master
+JARVIS: your name is master, is that right
+USER  : movement and yes
+JARVIS: i have saved your name as master
+USER  : five removed for computer
+JARVIS: yes master
+USER  : user for
+USER  : the september for ten seconds
+USER  : sets timer for ten seconds
+JARVIS: timer set
+USER  : for
+JARVIS: it has been 10 seconds master
+11-21-2012 -- 12:22
+USER  : in
+USER  : in september for 257,800 hours
+USER  : set time or 42 hundred 5078 hundred hours
+JARVIS: it is currently 12:22 PM
+USER  : and move moving for the
+USER  : no
+USER  : shot up
+USER  : shut up
+JARVIS: i am sorry master
+USER  : but it's a it's huge for and
+USER  : my name is sir
+JARVIS: your name is sir, is that right
+USER  : yes
+JARVIS: i have saved your name as sir
+USER  : move for that, for moving
+USER  : computer
+JARVIS: yes sir
+USER  : and user
+USER  : reposition
+JARVIS: repositioning
+USER  : for it in the foreign
+USER  : assets in the new ordinance thing in
+USER  : home in her
+USER  : think a
+USER  : new
+USER  : computer
+JARVIS: yes sir
+11-21-2012 -- 12:23
+USER  : for open door to drive at age
+USER  : for open door to drive h
+JARVIS: opening door to h:
+USER  : was it moving, but
+USER  : it is
+USER  : to this as
+USER  : and in, five of its new function to buy a for his age boy for a place to hold the goes to the booth and: they will
+USER  : go ahead for if it
+USER  : with using were, a computer
+JARVIS: yes sir
+USER  : to for open door to drive f.
+JARVIS: opening door to f:
+USER  : moving
+USER  : the queue and the monitor off
+JARVIS: monitor off
+USER  : moving
+11-21-2012 -- 12:24
+USER  : computer
+JARVIS: yes sir
+USER  : for
+USER  : put computer to sleep
+JARVIS: yes sir
+JARVIS: putting computer to sleep
+11-21-2012 -- 18:12
+JARVIS: this is about the time you usually close me
+USER  : for having moved
+11-21-2012 -- 18:13
+JARVIS: your computer has been inactive for 10 minutes, sir
+11-21-2012 -- 18:22
+JARVIS: your computer has been on for 93 hours, sir
+11-21-2012 -- 18:33
+JARVIS: your computer has been inactive for 30 minutes, sir
+11-21-2012 -- 18:42
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+11-21-2012 -- 18:47
+Time Spent: 23164 
+Commands  : 51 
+Responses : 26 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+11-22-2012 -- 12:26
+USER  : movement for
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+11-22-2012 -- 12:27
+Time Spent: 23 
+Commands  : 1 
+Responses : 0 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+ZGorlock@gmail.com
+
+11-22-2012
+13:23:49

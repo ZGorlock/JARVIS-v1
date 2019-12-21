@@ -1,0 +1,10 @@
+test all commands
+as testing commands check documentation
+test all timed functions
+test adding/removing a command
+test adding/removing a pack
+test all tools
+make sure first time initiation is working properly
+make sure batch files all work
+
+remove func\sub\gosub that arent included in main

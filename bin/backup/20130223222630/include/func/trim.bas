@@ -1,0 +1,3 @@
+FUNCTION TRIM$ (text$)
+TRIM$ = RTRIM$(LTRIM$(text$))
+END FUNCTION

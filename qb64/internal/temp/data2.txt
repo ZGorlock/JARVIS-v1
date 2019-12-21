@@ -1,0 +1,111 @@
+qbs*oldstr2735=NULL;
+if(_SUB_DICTIONARY_STRING_SEARCHSTR->tmp||_SUB_DICTIONARY_STRING_SEARCHSTR->fixed||_SUB_DICTIONARY_STRING_SEARCHSTR->readonly){
+oldstr2735=_SUB_DICTIONARY_STRING_SEARCHSTR;
+if (oldstr2735->cmem_descriptor){
+_SUB_DICTIONARY_STRING_SEARCHSTR=qbs_new_cmem(oldstr2735->len,0);
+}else{
+_SUB_DICTIONARY_STRING_SEARCHSTR=qbs_new(oldstr2735->len,0);
+}
+memcpy(_SUB_DICTIONARY_STRING_SEARCHSTR->chr,oldstr2735->chr,oldstr2735->len);
+}
+void *_SUB_DICTIONARY_UDT_MYINDEX=NULL;
+if(_SUB_DICTIONARY_UDT_MYINDEX==NULL){
+_SUB_DICTIONARY_UDT_MYINDEX=(void*)mem_static_malloc(36);
+memset(_SUB_DICTIONARY_UDT_MYINDEX,0,36);
+}
+void *_SUB_DICTIONARY_UDT_MYSYNSET=NULL;
+if(_SUB_DICTIONARY_UDT_MYSYNSET==NULL){
+_SUB_DICTIONARY_UDT_MYSYNSET=(void*)mem_static_malloc(104);
+memset(_SUB_DICTIONARY_UDT_MYSYNSET,0,104);
+}
+double *_SUB_DICTIONARY_DOUBLE_I=NULL;
+if(_SUB_DICTIONARY_DOUBLE_I==NULL){
+_SUB_DICTIONARY_DOUBLE_I=(double*)mem_static_malloc(8);
+*_SUB_DICTIONARY_DOUBLE_I=0;
+}
+long double fornext_value2737;
+long double fornext_finalvalue2737;
+long double fornext_step2737;
+uint8 fornext_step_negative2737;
+uptrszint *_SUB_DICTIONARY_UOFFSET_PINDEX=NULL;
+if(_SUB_DICTIONARY_UOFFSET_PINDEX==NULL){
+_SUB_DICTIONARY_UOFFSET_PINDEX=(uptrszint*)mem_static_malloc(4);
+*_SUB_DICTIONARY_UOFFSET_PINDEX=0;
+}
+byte_element_struct *byte_element_2738=NULL;
+if (!byte_element_2738){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2738=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2738=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2739=NULL;
+if (!byte_element_2739){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2739=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2739=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2740=NULL;
+if (!byte_element_2740){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2740=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2740=(byte_element_struct*)mem_static_malloc(12);
+}
+int32 *_SUB_DICTIONARY_LONG_INDEXCNT=NULL;
+if(_SUB_DICTIONARY_LONG_INDEXCNT==NULL){
+_SUB_DICTIONARY_LONG_INDEXCNT=(int32*)mem_static_malloc(4);
+*_SUB_DICTIONARY_LONG_INDEXCNT=0;
+}
+int64 fornext_value2742;
+int64 fornext_finalvalue2742;
+int64 fornext_step2742;
+uint8 fornext_step_negative2742;
+uptrszint *_SUB_DICTIONARY_UOFFSET_PSYNSET=NULL;
+if(_SUB_DICTIONARY_UOFFSET_PSYNSET==NULL){
+_SUB_DICTIONARY_UOFFSET_PSYNSET=(uptrszint*)mem_static_malloc(4);
+*_SUB_DICTIONARY_UOFFSET_PSYNSET=0;
+}
+byte_element_struct *byte_element_2743=NULL;
+if (!byte_element_2743){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2743=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2743=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2744=NULL;
+if (!byte_element_2744){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2744=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2744=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2745=NULL;
+if (!byte_element_2745){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2745=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2745=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_SUB_DICTIONARY_STRING_DEFN=NULL;
+if (!_SUB_DICTIONARY_STRING_DEFN)_SUB_DICTIONARY_STRING_DEFN=qbs_new(0,0);
+byte_element_struct *byte_element_2746=NULL;
+if (!byte_element_2746){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2746=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2746=(byte_element_struct*)mem_static_malloc(12);
+}
+int32 *_SUB_DICTIONARY_LONG_SYN=NULL;
+if(_SUB_DICTIONARY_LONG_SYN==NULL){
+_SUB_DICTIONARY_LONG_SYN=(int32*)mem_static_malloc(4);
+*_SUB_DICTIONARY_LONG_SYN=0;
+}
+int64 fornext_value2748;
+int64 fornext_finalvalue2748;
+int64 fornext_step2748;
+uint8 fornext_step_negative2748;
+byte_element_struct *byte_element_2749=NULL;
+if (!byte_element_2749){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2749=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2749=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_SUB_DICTIONARY_STRING_SYN=NULL;
+if (!_SUB_DICTIONARY_STRING_SYN)_SUB_DICTIONARY_STRING_SYN=qbs_new(0,0);
+uptrszint pass2750;
+qbs *_SUB_DICTIONARY_STRING_BUILDSYN=NULL;
+if (!_SUB_DICTIONARY_STRING_BUILDSYN)_SUB_DICTIONARY_STRING_BUILDSYN=qbs_new(0,0);
+double *_SUB_DICTIONARY_DOUBLE_SPLICEPACE=NULL;
+if(_SUB_DICTIONARY_DOUBLE_SPLICEPACE==NULL){
+_SUB_DICTIONARY_DOUBLE_SPLICEPACE=(double*)mem_static_malloc(8);
+*_SUB_DICTIONARY_DOUBLE_SPLICEPACE=0;
+}
+long double fornext_value2752;
+long double fornext_finalvalue2752;
+long double fornext_step2752;
+uint8 fornext_step_negative2752;
+byte_element_struct *byte_element_2753=NULL;
+if (!byte_element_2753){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2753=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2753=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_SUB_DICTIONARY_STRING_SHAVE=NULL;
+if (!_SUB_DICTIONARY_STRING_SHAVE)_SUB_DICTIONARY_STRING_SHAVE=qbs_new(0,0);

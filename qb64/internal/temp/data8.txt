@@ -1,0 +1,93 @@
+double *_FUNC_COMPARE_DOUBLE_COMPARE=NULL;
+if(_FUNC_COMPARE_DOUBLE_COMPARE==NULL){
+_FUNC_COMPARE_DOUBLE_COMPARE=(double*)mem_static_malloc(8);
+*_FUNC_COMPARE_DOUBLE_COMPARE=0;
+}
+qbs*oldstr2788=NULL;
+if(_FUNC_COMPARE_STRING_CHECK->tmp||_FUNC_COMPARE_STRING_CHECK->fixed||_FUNC_COMPARE_STRING_CHECK->readonly){
+oldstr2788=_FUNC_COMPARE_STRING_CHECK;
+if (oldstr2788->cmem_descriptor){
+_FUNC_COMPARE_STRING_CHECK=qbs_new_cmem(oldstr2788->len,0);
+}else{
+_FUNC_COMPARE_STRING_CHECK=qbs_new(oldstr2788->len,0);
+}
+memcpy(_FUNC_COMPARE_STRING_CHECK->chr,oldstr2788->chr,oldstr2788->len);
+}
+qbs*oldstr2789=NULL;
+if(_FUNC_COMPARE_STRING_REFERENCE->tmp||_FUNC_COMPARE_STRING_REFERENCE->fixed||_FUNC_COMPARE_STRING_REFERENCE->readonly){
+oldstr2789=_FUNC_COMPARE_STRING_REFERENCE;
+if (oldstr2789->cmem_descriptor){
+_FUNC_COMPARE_STRING_REFERENCE=qbs_new_cmem(oldstr2789->len,0);
+}else{
+_FUNC_COMPARE_STRING_REFERENCE=qbs_new(oldstr2789->len,0);
+}
+memcpy(_FUNC_COMPARE_STRING_REFERENCE->chr,oldstr2789->chr,oldstr2789->len);
+}
+ptrszint *_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX=NULL;
+if (!_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX){
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX=(ptrszint*)mem_static_malloc(9*ptrsz);
+new_mem_lock();
+mem_lock_tmp->type=4;
+((ptrszint*)_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX)[8]=(ptrszint)mem_lock_tmp;
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX[2]=0;
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX[4]=2147483647;
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX[5]=0;
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX[6]=0;
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX[0]=(ptrszint)nothingvalue;
+}
+ptrszint *_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY=NULL;
+if (!_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY){
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY=(ptrszint*)mem_static_malloc(9*ptrsz);
+new_mem_lock();
+mem_lock_tmp->type=4;
+((ptrszint*)_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY)[8]=(ptrszint)mem_lock_tmp;
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY[2]=0;
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY[4]=2147483647;
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY[5]=0;
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY[6]=0;
+_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY[0]=(ptrszint)nothingvalue;
+}
+double *_FUNC_COMPARE_DOUBLE_J=NULL;
+if(_FUNC_COMPARE_DOUBLE_J==NULL){
+_FUNC_COMPARE_DOUBLE_J=(double*)mem_static_malloc(8);
+*_FUNC_COMPARE_DOUBLE_J=0;
+}
+long double fornext_value2791;
+long double fornext_finalvalue2791;
+long double fornext_step2791;
+uint8 fornext_step_negative2791;
+byte_element_struct *byte_element_2792=NULL;
+if (!byte_element_2792){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2792=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2792=(byte_element_struct*)mem_static_malloc(12);
+}
+double *_FUNC_COMPARE_DOUBLE_X=NULL;
+if(_FUNC_COMPARE_DOUBLE_X==NULL){
+_FUNC_COMPARE_DOUBLE_X=(double*)mem_static_malloc(8);
+*_FUNC_COMPARE_DOUBLE_X=0;
+}
+long double fornext_value2794;
+long double fornext_finalvalue2794;
+long double fornext_step2794;
+uint8 fornext_step_negative2794;
+byte_element_struct *byte_element_2795=NULL;
+if (!byte_element_2795){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2795=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2795=(byte_element_struct*)mem_static_malloc(12);
+}
+double *_FUNC_COMPARE_DOUBLE_WORDRIGHT=NULL;
+if(_FUNC_COMPARE_DOUBLE_WORDRIGHT==NULL){
+_FUNC_COMPARE_DOUBLE_WORDRIGHT=(double*)mem_static_malloc(8);
+*_FUNC_COMPARE_DOUBLE_WORDRIGHT=0;
+}
+double *_FUNC_COMPARE_DOUBLE_WORDWRONG=NULL;
+if(_FUNC_COMPARE_DOUBLE_WORDWRONG==NULL){
+_FUNC_COMPARE_DOUBLE_WORDWRONG=(double*)mem_static_malloc(8);
+*_FUNC_COMPARE_DOUBLE_WORDWRONG=0;
+}
+long double fornext_value2797;
+long double fornext_finalvalue2797;
+long double fornext_step2797;
+uint8 fornext_step_negative2797;
+byte_element_struct *byte_element_2798=NULL;
+if (!byte_element_2798){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2798=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2798=(byte_element_struct*)mem_static_malloc(12);
+}

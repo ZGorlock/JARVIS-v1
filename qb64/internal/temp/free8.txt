@@ -1,0 +1,24 @@
+if(oldstr2788){
+if(oldstr2788->fixed)qbs_set(oldstr2788,_FUNC_COMPARE_STRING_CHECK);
+qbs_free(_FUNC_COMPARE_STRING_CHECK);
+}
+if(oldstr2789){
+if(oldstr2789->fixed)qbs_set(oldstr2789,_FUNC_COMPARE_STRING_REFERENCE);
+qbs_free(_FUNC_COMPARE_STRING_REFERENCE);
+}
+if (_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX[2]&1){
+if (_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX[2]&4){
+cmem_dynamic_free((uint8*)(_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX[0]));
+}else{
+free((void*)(_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX[0]));
+}
+}
+free_mem_lock( (mem_lock*)((ptrszint*)_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREX)[8] );
+if (_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY[2]&1){
+if (_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY[2]&4){
+cmem_dynamic_free((uint8*)(_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY[0]));
+}else{
+free((void*)(_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY[0]));
+}
+}
+free_mem_lock( (mem_lock*)((ptrszint*)_FUNC_COMPARE_ARRAY_DOUBLE_COMPAREY)[8] );

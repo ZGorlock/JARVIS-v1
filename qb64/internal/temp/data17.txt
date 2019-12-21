@@ -1,0 +1,8 @@
+qbs *_FUNC_HEXW_STRING_HEXW=NULL;
+if (!_FUNC_HEXW_STRING_HEXW)_FUNC_HEXW_STRING_HEXW=qbs_new(0,0);
+qbs *_FUNC_HEXW_STRING_T=NULL;
+if (!_FUNC_HEXW_STRING_T)_FUNC_HEXW_STRING_T=qbs_new(0,0);
+byte_element_struct *byte_element_2830=NULL;
+if (!byte_element_2830){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2830=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2830=(byte_element_struct*)mem_static_malloc(12);
+}

@@ -1,0 +1,1 @@
+IF (usercommand$(runcommands) = "die" OR usercommand$(runcommands) = "dye" OR usercommand$(runcommands) = "terminate") AND usercommands = 1 THEN GOSUB xcleanup

@@ -1,0 +1,37 @@
+double *_FUNC_TODECIMAL_DOUBLE_TODECIMAL=NULL;
+if(_FUNC_TODECIMAL_DOUBLE_TODECIMAL==NULL){
+_FUNC_TODECIMAL_DOUBLE_TODECIMAL=(double*)mem_static_malloc(8);
+*_FUNC_TODECIMAL_DOUBLE_TODECIMAL=0;
+}
+qbs*oldstr2854=NULL;
+if(_FUNC_TODECIMAL_STRING_BINARY1->tmp||_FUNC_TODECIMAL_STRING_BINARY1->fixed||_FUNC_TODECIMAL_STRING_BINARY1->readonly){
+oldstr2854=_FUNC_TODECIMAL_STRING_BINARY1;
+if (oldstr2854->cmem_descriptor){
+_FUNC_TODECIMAL_STRING_BINARY1=qbs_new_cmem(oldstr2854->len,0);
+}else{
+_FUNC_TODECIMAL_STRING_BINARY1=qbs_new(oldstr2854->len,0);
+}
+memcpy(_FUNC_TODECIMAL_STRING_BINARY1->chr,oldstr2854->chr,oldstr2854->len);
+}
+double *_FUNC_TODECIMAL_DOUBLE_X=NULL;
+if(_FUNC_TODECIMAL_DOUBLE_X==NULL){
+_FUNC_TODECIMAL_DOUBLE_X=(double*)mem_static_malloc(8);
+*_FUNC_TODECIMAL_DOUBLE_X=0;
+}
+long double fornext_value2856;
+long double fornext_finalvalue2856;
+long double fornext_step2856;
+uint8 fornext_step_negative2856;
+byte_element_struct *byte_element_2857=NULL;
+if (!byte_element_2857){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2857=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2857=(byte_element_struct*)mem_static_malloc(12);
+}
+double *_FUNC_TODECIMAL_DOUBLE_DEC=NULL;
+if(_FUNC_TODECIMAL_DOUBLE_DEC==NULL){
+_FUNC_TODECIMAL_DOUBLE_DEC=(double*)mem_static_malloc(8);
+*_FUNC_TODECIMAL_DOUBLE_DEC=0;
+}
+byte_element_struct *byte_element_2858=NULL;
+if (!byte_element_2858){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2858=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2858=(byte_element_struct*)mem_static_malloc(12);
+}

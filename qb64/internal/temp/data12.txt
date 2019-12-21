@@ -1,0 +1,5 @@
+double *_FUNC_DIS_DOUBLE_DIS=NULL;
+if(_FUNC_DIS_DOUBLE_DIS==NULL){
+_FUNC_DIS_DOUBLE_DIS=(double*)mem_static_malloc(8);
+*_FUNC_DIS_DOUBLE_DIS=0;
+}

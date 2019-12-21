@@ -1,0 +1,61 @@
+qbs *_FUNC_CONVBASE64_STRING_CONVBASE64=NULL;
+if (!_FUNC_CONVBASE64_STRING_CONVBASE64)_FUNC_CONVBASE64_STRING_CONVBASE64=qbs_new(0,0);
+qbs*oldstr2799=NULL;
+if(_FUNC_CONVBASE64_STRING_BIT8->tmp||_FUNC_CONVBASE64_STRING_BIT8->fixed||_FUNC_CONVBASE64_STRING_BIT8->readonly){
+oldstr2799=_FUNC_CONVBASE64_STRING_BIT8;
+if (oldstr2799->cmem_descriptor){
+_FUNC_CONVBASE64_STRING_BIT8=qbs_new_cmem(oldstr2799->len,0);
+}else{
+_FUNC_CONVBASE64_STRING_BIT8=qbs_new(oldstr2799->len,0);
+}
+memcpy(_FUNC_CONVBASE64_STRING_BIT8->chr,oldstr2799->chr,oldstr2799->len);
+}
+qbs *_FUNC_CONVBASE64_STRING_BASE64=NULL;
+if (!_FUNC_CONVBASE64_STRING_BASE64)_FUNC_CONVBASE64_STRING_BASE64=qbs_new(0,0);
+double *_FUNC_CONVBASE64_DOUBLE_PAD=NULL;
+if(_FUNC_CONVBASE64_DOUBLE_PAD==NULL){
+_FUNC_CONVBASE64_DOUBLE_PAD=(double*)mem_static_malloc(8);
+*_FUNC_CONVBASE64_DOUBLE_PAD=0;
+}
+byte_element_struct *byte_element_2800=NULL;
+if (!byte_element_2800){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2800=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2800=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_FUNC_CONVBASE64_STRING_UNENC=NULL;
+if (!_FUNC_CONVBASE64_STRING_UNENC)_FUNC_CONVBASE64_STRING_UNENC=qbs_new(0,0);
+double *_FUNC_CONVBASE64_DOUBLE_ST=NULL;
+if(_FUNC_CONVBASE64_DOUBLE_ST==NULL){
+_FUNC_CONVBASE64_DOUBLE_ST=(double*)mem_static_malloc(8);
+*_FUNC_CONVBASE64_DOUBLE_ST=0;
+}
+qbs *_FUNC_CONVBASE64_STRING_ENC=NULL;
+if (!_FUNC_CONVBASE64_STRING_ENC)_FUNC_CONVBASE64_STRING_ENC=qbs_new(0,0);
+qbs *_FUNC_CONVBASE64_STRING_BYTES=NULL;
+if (!_FUNC_CONVBASE64_STRING_BYTES)_FUNC_CONVBASE64_STRING_BYTES=qbs_new(0,0);
+double *_FUNC_CONVBASE64_DOUBLE_X=NULL;
+if(_FUNC_CONVBASE64_DOUBLE_X==NULL){
+_FUNC_CONVBASE64_DOUBLE_X=(double*)mem_static_malloc(8);
+*_FUNC_CONVBASE64_DOUBLE_X=0;
+}
+long double fornext_value2803;
+long double fornext_finalvalue2803;
+long double fornext_step2803;
+uint8 fornext_step_negative2803;
+int16 pass2804;
+long double fornext_value2806;
+long double fornext_finalvalue2806;
+long double fornext_step2806;
+uint8 fornext_step_negative2806;
+double *_FUNC_CONVBASE64_DOUBLE_NUM=NULL;
+if(_FUNC_CONVBASE64_DOUBLE_NUM==NULL){
+_FUNC_CONVBASE64_DOUBLE_NUM=(double*)mem_static_malloc(8);
+*_FUNC_CONVBASE64_DOUBLE_NUM=0;
+}
+byte_element_struct *byte_element_2807=NULL;
+if (!byte_element_2807){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2807=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2807=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2808=NULL;
+if (!byte_element_2808){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2808=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2808=(byte_element_struct*)mem_static_malloc(12);
+}

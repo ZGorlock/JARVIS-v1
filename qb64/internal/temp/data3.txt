@@ -1,0 +1,147 @@
+qbs*oldstr2754=NULL;
+if(_SUB_EMAIL_STRING_UEMAIL->tmp||_SUB_EMAIL_STRING_UEMAIL->fixed||_SUB_EMAIL_STRING_UEMAIL->readonly){
+oldstr2754=_SUB_EMAIL_STRING_UEMAIL;
+if (oldstr2754->cmem_descriptor){
+_SUB_EMAIL_STRING_UEMAIL=qbs_new_cmem(oldstr2754->len,0);
+}else{
+_SUB_EMAIL_STRING_UEMAIL=qbs_new(oldstr2754->len,0);
+}
+memcpy(_SUB_EMAIL_STRING_UEMAIL->chr,oldstr2754->chr,oldstr2754->len);
+}
+qbs*oldstr2755=NULL;
+if(_SUB_EMAIL_STRING_UPASS->tmp||_SUB_EMAIL_STRING_UPASS->fixed||_SUB_EMAIL_STRING_UPASS->readonly){
+oldstr2755=_SUB_EMAIL_STRING_UPASS;
+if (oldstr2755->cmem_descriptor){
+_SUB_EMAIL_STRING_UPASS=qbs_new_cmem(oldstr2755->len,0);
+}else{
+_SUB_EMAIL_STRING_UPASS=qbs_new(oldstr2755->len,0);
+}
+memcpy(_SUB_EMAIL_STRING_UPASS->chr,oldstr2755->chr,oldstr2755->len);
+}
+qbs*oldstr2756=NULL;
+if(_SUB_EMAIL_STRING_REMAIL->tmp||_SUB_EMAIL_STRING_REMAIL->fixed||_SUB_EMAIL_STRING_REMAIL->readonly){
+oldstr2756=_SUB_EMAIL_STRING_REMAIL;
+if (oldstr2756->cmem_descriptor){
+_SUB_EMAIL_STRING_REMAIL=qbs_new_cmem(oldstr2756->len,0);
+}else{
+_SUB_EMAIL_STRING_REMAIL=qbs_new(oldstr2756->len,0);
+}
+memcpy(_SUB_EMAIL_STRING_REMAIL->chr,oldstr2756->chr,oldstr2756->len);
+}
+qbs*oldstr2757=NULL;
+if(_SUB_EMAIL_STRING_ID->tmp||_SUB_EMAIL_STRING_ID->fixed||_SUB_EMAIL_STRING_ID->readonly){
+oldstr2757=_SUB_EMAIL_STRING_ID;
+if (oldstr2757->cmem_descriptor){
+_SUB_EMAIL_STRING_ID=qbs_new_cmem(oldstr2757->len,0);
+}else{
+_SUB_EMAIL_STRING_ID=qbs_new(oldstr2757->len,0);
+}
+memcpy(_SUB_EMAIL_STRING_ID->chr,oldstr2757->chr,oldstr2757->len);
+}
+qbs*oldstr2758=NULL;
+if(_SUB_EMAIL_STRING_MESSAGELOC->tmp||_SUB_EMAIL_STRING_MESSAGELOC->fixed||_SUB_EMAIL_STRING_MESSAGELOC->readonly){
+oldstr2758=_SUB_EMAIL_STRING_MESSAGELOC;
+if (oldstr2758->cmem_descriptor){
+_SUB_EMAIL_STRING_MESSAGELOC=qbs_new_cmem(oldstr2758->len,0);
+}else{
+_SUB_EMAIL_STRING_MESSAGELOC=qbs_new(oldstr2758->len,0);
+}
+memcpy(_SUB_EMAIL_STRING_MESSAGELOC->chr,oldstr2758->chr,oldstr2758->len);
+}
+double *_SUB_EMAIL_DOUBLE_C=NULL;
+if(_SUB_EMAIL_DOUBLE_C==NULL){
+_SUB_EMAIL_DOUBLE_C=(double*)mem_static_malloc(8);
+*_SUB_EMAIL_DOUBLE_C=0;
+}
+qbs *_SUB_EMAIL_STRING_A=NULL;
+if (!_SUB_EMAIL_STRING_A)_SUB_EMAIL_STRING_A=qbs_new(0,0);
+byte_element_struct *byte_element_2759=NULL;
+if (!byte_element_2759){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2759=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2759=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2760=NULL;
+if (!byte_element_2760){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2760=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2760=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_SUB_EMAIL_STRING_BASE64E=NULL;
+if (!_SUB_EMAIL_STRING_BASE64E)_SUB_EMAIL_STRING_BASE64E=qbs_new(0,0);
+byte_element_struct *byte_element_2761=NULL;
+if (!byte_element_2761){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2761=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2761=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_SUB_EMAIL_STRING_BASE64P=NULL;
+if (!_SUB_EMAIL_STRING_BASE64P)_SUB_EMAIL_STRING_BASE64P=qbs_new(0,0);
+byte_element_struct *byte_element_2762=NULL;
+if (!byte_element_2762){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2762=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2762=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2763=NULL;
+if (!byte_element_2763){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2763=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2763=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2764=NULL;
+if (!byte_element_2764){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2764=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2764=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2765=NULL;
+if (!byte_element_2765){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2765=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2765=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2766=NULL;
+if (!byte_element_2766){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2766=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2766=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2767=NULL;
+if (!byte_element_2767){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2767=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2767=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2768=NULL;
+if (!byte_element_2768){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2768=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2768=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2769=NULL;
+if (!byte_element_2769){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2769=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2769=(byte_element_struct*)mem_static_malloc(12);
+}
+ptrszint *_SUB_EMAIL_ARRAY_STRING_MESSAGE=NULL;
+if (!_SUB_EMAIL_ARRAY_STRING_MESSAGE){
+_SUB_EMAIL_ARRAY_STRING_MESSAGE=(ptrszint*)mem_static_malloc(9*ptrsz);
+new_mem_lock();
+mem_lock_tmp->type=4;
+((ptrszint*)_SUB_EMAIL_ARRAY_STRING_MESSAGE)[8]=(ptrszint)mem_lock_tmp;
+_SUB_EMAIL_ARRAY_STRING_MESSAGE[2]=0;
+_SUB_EMAIL_ARRAY_STRING_MESSAGE[4]=2147483647;
+_SUB_EMAIL_ARRAY_STRING_MESSAGE[5]=0;
+_SUB_EMAIL_ARRAY_STRING_MESSAGE[6]=0;
+_SUB_EMAIL_ARRAY_STRING_MESSAGE[0]=(ptrszint)&nothingstring;
+}
+double *_SUB_EMAIL_DOUBLE_MESSAGE=NULL;
+if(_SUB_EMAIL_DOUBLE_MESSAGE==NULL){
+_SUB_EMAIL_DOUBLE_MESSAGE=(double*)mem_static_malloc(8);
+*_SUB_EMAIL_DOUBLE_MESSAGE=0;
+}
+double *_SUB_EMAIL_DOUBLE_PUTMESSAGE=NULL;
+if(_SUB_EMAIL_DOUBLE_PUTMESSAGE==NULL){
+_SUB_EMAIL_DOUBLE_PUTMESSAGE=(double*)mem_static_malloc(8);
+*_SUB_EMAIL_DOUBLE_PUTMESSAGE=0;
+}
+long double fornext_value2773;
+long double fornext_finalvalue2773;
+long double fornext_step2773;
+uint8 fornext_step_negative2773;
+byte_element_struct *byte_element_2774=NULL;
+if (!byte_element_2774){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2774=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2774=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2775=NULL;
+if (!byte_element_2775){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2775=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2775=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2776=NULL;
+if (!byte_element_2776){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2776=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2776=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2777=NULL;
+if (!byte_element_2777){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2777=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2777=(byte_element_struct*)mem_static_malloc(12);
+}

@@ -1,0 +1,5 @@
+if(oldstr2748){
+if(oldstr2748->fixed)qbs_set(oldstr2748,_FUNC_REMOVESYMBOL_STRING_VARNAME);
+qbs_free(_FUNC_REMOVESYMBOL_STRING_VARNAME);
+}
+qbs_free(_FUNC_REMOVESYMBOL_STRING_SYMBOL);

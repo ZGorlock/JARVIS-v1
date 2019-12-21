@@ -1,0 +1,53 @@
+add new lexicon / google spell check
+add google api questions
+
+what happened on this day
+weather
+world news
+quotes
+fix jokes
+riddles
+
+initiate after coming from sleep mode
+options for commands and notifications
+
+add converter
+riddles
+redefine how jarvis determinds what to do
+document all toolkits
+get 64bit versions of toolkits
+get rid of startuptimer
+
+efficiency
+
+
+
+
+fix translation
+fix dictionary
+
+add setup
+music data structure
+programs data structure
+
+website
+put up website
+commands to go to the website
+
+server
+license
+
+create seperate winxp and vis/7/8 packages
+
+find mp3 library
+music player
+
+maplestory pack
+conversation abilities
+time log commands
+jarvishome
+reminders, scheduler
+more window commands (alttab)
+advance transparency
+macros
+messager

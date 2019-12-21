@@ -1,0 +1,13 @@
+qbs *_FUNC_BIN_STRING_BIN=NULL;
+if (!_FUNC_BIN_STRING_BIN)_FUNC_BIN_STRING_BIN=qbs_new(0,0);
+int16 *_FUNC_BIN_INTEGER_REMAIN=NULL;
+if(_FUNC_BIN_INTEGER_REMAIN==NULL){
+_FUNC_BIN_INTEGER_REMAIN=(int16*)mem_static_malloc(2);
+*_FUNC_BIN_INTEGER_REMAIN=0;
+}
+qbs *_FUNC_BIN_STRING_BINTOTAL=NULL;
+if (!_FUNC_BIN_STRING_BINTOTAL)_FUNC_BIN_STRING_BINTOTAL=qbs_new(0,0);
+byte_element_struct *byte_element_2786=NULL;
+if (!byte_element_2786){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2786=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2786=(byte_element_struct*)mem_static_malloc(12);
+}

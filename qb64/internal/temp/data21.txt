@@ -1,0 +1,13 @@
+qbs *_FUNC_PEEKSTR_STRING_PEEKSTR=NULL;
+if (!_FUNC_PEEKSTR_STRING_PEEKSTR)_FUNC_PEEKSTR_STRING_PEEKSTR=qbs_new(0,0);
+uptrszint *_FUNC_PEEKSTR_UOFFSET_N=NULL;
+if(_FUNC_PEEKSTR_UOFFSET_N==NULL){
+_FUNC_PEEKSTR_UOFFSET_N=(uptrszint*)mem_static_malloc(4);
+*_FUNC_PEEKSTR_UOFFSET_N=0;
+}
+qbs *_FUNC_PEEKSTR_STRING_T=NULL;
+if (!_FUNC_PEEKSTR_STRING_T)_FUNC_PEEKSTR_STRING_T=qbs_new(0,0);
+byte_element_struct *byte_element_2835=NULL;
+if (!byte_element_2835){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2835=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2835=(byte_element_struct*)mem_static_malloc(12);
+}

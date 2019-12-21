@@ -1,0 +1,6 @@
+name
+address
+zip code
+birthday [age]
+email
+gender

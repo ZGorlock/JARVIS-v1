@@ -1,0 +1,1 @@
+'$include:'..\packs\maplestory\include\commands.bas'

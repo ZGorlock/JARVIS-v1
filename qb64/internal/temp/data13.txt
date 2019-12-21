@@ -1,0 +1,131 @@
+double *_FUNC_DOWNLOAD_DOUBLE_DOWNLOAD=NULL;
+if(_FUNC_DOWNLOAD_DOUBLE_DOWNLOAD==NULL){
+_FUNC_DOWNLOAD_DOUBLE_DOWNLOAD=(double*)mem_static_malloc(8);
+*_FUNC_DOWNLOAD_DOUBLE_DOWNLOAD=0;
+}
+qbs*oldstr2814=NULL;
+if(_FUNC_DOWNLOAD_STRING_URL->tmp||_FUNC_DOWNLOAD_STRING_URL->fixed||_FUNC_DOWNLOAD_STRING_URL->readonly){
+oldstr2814=_FUNC_DOWNLOAD_STRING_URL;
+if (oldstr2814->cmem_descriptor){
+_FUNC_DOWNLOAD_STRING_URL=qbs_new_cmem(oldstr2814->len,0);
+}else{
+_FUNC_DOWNLOAD_STRING_URL=qbs_new(oldstr2814->len,0);
+}
+memcpy(_FUNC_DOWNLOAD_STRING_URL->chr,oldstr2814->chr,oldstr2814->len);
+}
+qbs*oldstr2815=NULL;
+if(_FUNC_DOWNLOAD_STRING_FILE->tmp||_FUNC_DOWNLOAD_STRING_FILE->fixed||_FUNC_DOWNLOAD_STRING_FILE->readonly){
+oldstr2815=_FUNC_DOWNLOAD_STRING_FILE;
+if (oldstr2815->cmem_descriptor){
+_FUNC_DOWNLOAD_STRING_FILE=qbs_new_cmem(oldstr2815->len,0);
+}else{
+_FUNC_DOWNLOAD_STRING_FILE=qbs_new(oldstr2815->len,0);
+}
+memcpy(_FUNC_DOWNLOAD_STRING_FILE->chr,oldstr2815->chr,oldstr2815->len);
+}
+qbs *_FUNC_DOWNLOAD_STRING_LINK=NULL;
+if (!_FUNC_DOWNLOAD_STRING_LINK)_FUNC_DOWNLOAD_STRING_LINK=qbs_new(0,0);
+float *_FUNC_DOWNLOAD_SINGLE_T=NULL;
+if(_FUNC_DOWNLOAD_SINGLE_T==NULL){
+_FUNC_DOWNLOAD_SINGLE_T=(float*)mem_static_malloc(4);
+*_FUNC_DOWNLOAD_SINGLE_T=0;
+}
+qbs *_FUNC_DOWNLOAD_STRING_HEAD=NULL;
+if (!_FUNC_DOWNLOAD_STRING_HEAD)_FUNC_DOWNLOAD_STRING_HEAD=qbs_new(0,0);
+qbs *_FUNC_DOWNLOAD_STRING_CONT_TYPE=NULL;
+if (!_FUNC_DOWNLOAD_STRING_CONT_TYPE)_FUNC_DOWNLOAD_STRING_CONT_TYPE=qbs_new(0,0);
+double *_FUNC_DOWNLOAD_DOUBLE_CLIENT=NULL;
+if(_FUNC_DOWNLOAD_DOUBLE_CLIENT==NULL){
+_FUNC_DOWNLOAD_DOUBLE_CLIENT=(double*)mem_static_malloc(8);
+*_FUNC_DOWNLOAD_DOUBLE_CLIENT=0;
+}
+qbs *_FUNC_DOWNLOAD_STRING_A2=NULL;
+if (!_FUNC_DOWNLOAD_STRING_A2)_FUNC_DOWNLOAD_STRING_A2=qbs_new(0,0);
+qbs *_FUNC_DOWNLOAD_STRING_A=NULL;
+if (!_FUNC_DOWNLOAD_STRING_A)_FUNC_DOWNLOAD_STRING_A=qbs_new(0,0);
+qbs *_FUNC_DOWNLOAD_STRING_E=NULL;
+if (!_FUNC_DOWNLOAD_STRING_E)_FUNC_DOWNLOAD_STRING_E=qbs_new(0,0);
+qbs *_FUNC_DOWNLOAD_STRING_UHEAD=NULL;
+if (!_FUNC_DOWNLOAD_STRING_UHEAD)_FUNC_DOWNLOAD_STRING_UHEAD=qbs_new(0,0);
+int64 *_FUNC_DOWNLOAD_INTEGER64_L=NULL;
+if(_FUNC_DOWNLOAD_INTEGER64_L==NULL){
+_FUNC_DOWNLOAD_INTEGER64_L=(int64*)mem_static_malloc(8);
+*_FUNC_DOWNLOAD_INTEGER64_L=0;
+}
+int64 *_FUNC_DOWNLOAD_INTEGER64_LTF=NULL;
+if(_FUNC_DOWNLOAD_INTEGER64_LTF==NULL){
+_FUNC_DOWNLOAD_INTEGER64_LTF=(int64*)mem_static_malloc(8);
+*_FUNC_DOWNLOAD_INTEGER64_LTF=0;
+}
+int64 *_FUNC_DOWNLOAD_INTEGER64_LOD=NULL;
+if(_FUNC_DOWNLOAD_INTEGER64_LOD==NULL){
+_FUNC_DOWNLOAD_INTEGER64_LOD=(int64*)mem_static_malloc(8);
+*_FUNC_DOWNLOAD_INTEGER64_LOD=0;
+}
+byte_element_struct *byte_element_2817=NULL;
+if (!byte_element_2817){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2817=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2817=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2819=NULL;
+if (!byte_element_2819){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2819=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2819=(byte_element_struct*)mem_static_malloc(12);
+}
+double *_FUNC_DOWNLOAD_DOUBLE_DOWNLOAD_DONE=NULL;
+if(_FUNC_DOWNLOAD_DOUBLE_DOWNLOAD_DONE==NULL){
+_FUNC_DOWNLOAD_DOUBLE_DOWNLOAD_DONE=(double*)mem_static_malloc(8);
+*_FUNC_DOWNLOAD_DOUBLE_DOWNLOAD_DONE=0;
+}
+qbs *_FUNC_DOWNLOAD_STRING_D=NULL;
+if (!_FUNC_DOWNLOAD_STRING_D)_FUNC_DOWNLOAD_STRING_D=qbs_new(0,0);
+qbs *_FUNC_DOWNLOAD_STRING_H=NULL;
+if (!_FUNC_DOWNLOAD_STRING_H)_FUNC_DOWNLOAD_STRING_H=qbs_new(0,0);
+double *_FUNC_DOWNLOAD_DOUBLE_BYTES=NULL;
+if(_FUNC_DOWNLOAD_DOUBLE_BYTES==NULL){
+_FUNC_DOWNLOAD_DOUBLE_BYTES=(double*)mem_static_malloc(8);
+*_FUNC_DOWNLOAD_DOUBLE_BYTES=0;
+}
+byte_element_struct *byte_element_2821=NULL;
+if (!byte_element_2821){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2821=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2821=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2822=NULL;
+if (!byte_element_2822){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2822=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2822=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_FUNC_DOWNLOAD_STRING_CHUNK=NULL;
+if (!_FUNC_DOWNLOAD_STRING_CHUNK)_FUNC_DOWNLOAD_STRING_CHUNK=qbs_new(0,0);
+double *_FUNC_DOWNLOAD_DOUBLE_DAT=NULL;
+if(_FUNC_DOWNLOAD_DOUBLE_DAT==NULL){
+_FUNC_DOWNLOAD_DOUBLE_DAT=(double*)mem_static_malloc(8);
+*_FUNC_DOWNLOAD_DOUBLE_DAT=0;
+}
+double *_FUNC_DOWNLOAD_DOUBLE_FH=NULL;
+if(_FUNC_DOWNLOAD_DOUBLE_FH==NULL){
+_FUNC_DOWNLOAD_DOUBLE_FH=(double*)mem_static_malloc(8);
+*_FUNC_DOWNLOAD_DOUBLE_FH=0;
+}
+byte_element_struct *byte_element_2823=NULL;
+if (!byte_element_2823){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2823=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2823=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_FUNC_DOWNLOAD_STRING_URL2=NULL;
+if (!_FUNC_DOWNLOAD_STRING_URL2)_FUNC_DOWNLOAD_STRING_URL2=qbs_new(0,0);
+qbs *_FUNC_DOWNLOAD_STRING_URL4=NULL;
+if (!_FUNC_DOWNLOAD_STRING_URL4)_FUNC_DOWNLOAD_STRING_URL4=qbs_new(0,0);
+double *_FUNC_DOWNLOAD_DOUBLE_X=NULL;
+if(_FUNC_DOWNLOAD_DOUBLE_X==NULL){
+_FUNC_DOWNLOAD_DOUBLE_X=(double*)mem_static_malloc(8);
+*_FUNC_DOWNLOAD_DOUBLE_X=0;
+}
+qbs *_FUNC_DOWNLOAD_STRING_URL3=NULL;
+if (!_FUNC_DOWNLOAD_STRING_URL3)_FUNC_DOWNLOAD_STRING_URL3=qbs_new(0,0);
+byte_element_struct *byte_element_2824=NULL;
+if (!byte_element_2824){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2824=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2824=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_FUNC_DOWNLOAD_STRING_X=NULL;
+if (!_FUNC_DOWNLOAD_STRING_X)_FUNC_DOWNLOAD_STRING_X=qbs_new(0,0);
+byte_element_struct *byte_element_2825=NULL;
+if (!byte_element_2825){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2825=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2825=(byte_element_struct*)mem_static_malloc(12);
+}

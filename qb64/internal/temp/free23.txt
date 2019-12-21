@@ -1,0 +1,13 @@
+if(oldstr2837){
+if(oldstr2837->fixed)qbs_set(oldstr2837,_FUNC_REMCONTAINER_STRING_TEXT);
+qbs_free(_FUNC_REMCONTAINER_STRING_TEXT);
+}
+if(oldstr2838){
+if(oldstr2838->fixed)qbs_set(oldstr2838,_FUNC_REMCONTAINER_STRING_S);
+qbs_free(_FUNC_REMCONTAINER_STRING_S);
+}
+if(oldstr2839){
+if(oldstr2839->fixed)qbs_set(oldstr2839,_FUNC_REMCONTAINER_STRING_E);
+qbs_free(_FUNC_REMCONTAINER_STRING_E);
+}
+qbs_free(_FUNC_REMCONTAINER_STRING_CHUNK);

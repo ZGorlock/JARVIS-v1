@@ -1,0 +1,10 @@
+DIM dw AS _UNSIGNED LONG
+DIM pe AS _UNSIGNED LONG
+OPEN "qb64.exe" FOR BINARY AS 1
+GET 1, 1 + &H3C, pe
+PRINT "0x"; HEX$(pe) ' file offset of pe signature. usually 0x80
+GET 1, 1 + pe + 4 + 20 + 72, dw
+PRINT "0x"; HEX$(dw) ' SizeOfStackReserve. usually 0x200000
+dw = &H800000
+PUT 1, 1 + pe + 4 + 20 + 72, dw
+CLOSE

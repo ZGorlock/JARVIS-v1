@@ -1,0 +1,1 @@
+uptrszint getptr_wnsnsflag();

@@ -1,0 +1,7 @@
+S_0:;
+do{
+sub_sleep(NULL,0);
+if(!qbevent)break;evnt(1);}while(r);
+sub_end();
+return NULL;
+}

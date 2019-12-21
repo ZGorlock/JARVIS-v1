@@ -1,0 +1,21 @@
+qbs *_FUNC_REMSPACE_STRING_REMSPACE=NULL;
+if (!_FUNC_REMSPACE_STRING_REMSPACE)_FUNC_REMSPACE_STRING_REMSPACE=qbs_new(0,0);
+qbs*oldstr2845=NULL;
+if(_FUNC_REMSPACE_STRING_A->tmp||_FUNC_REMSPACE_STRING_A->fixed||_FUNC_REMSPACE_STRING_A->readonly){
+oldstr2845=_FUNC_REMSPACE_STRING_A;
+if (oldstr2845->cmem_descriptor){
+_FUNC_REMSPACE_STRING_A=qbs_new_cmem(oldstr2845->len,0);
+}else{
+_FUNC_REMSPACE_STRING_A=qbs_new(oldstr2845->len,0);
+}
+memcpy(_FUNC_REMSPACE_STRING_A->chr,oldstr2845->chr,oldstr2845->len);
+}
+double *_FUNC_REMSPACE_DOUBLE_TRIMMING=NULL;
+if(_FUNC_REMSPACE_DOUBLE_TRIMMING==NULL){
+_FUNC_REMSPACE_DOUBLE_TRIMMING=(double*)mem_static_malloc(8);
+*_FUNC_REMSPACE_DOUBLE_TRIMMING=0;
+}
+byte_element_struct *byte_element_2847=NULL;
+if (!byte_element_2847){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2847=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2847=(byte_element_struct*)mem_static_malloc(12);
+}

@@ -1,0 +1,4 @@
+if(oldstr2845){
+if(oldstr2845->fixed)qbs_set(oldstr2845,_FUNC_REMSPACE_STRING_A);
+qbs_free(_FUNC_REMSPACE_STRING_A);
+}

@@ -1,0 +1,5 @@
+if(oldstr2865){
+if(oldstr2865->fixed)qbs_set(oldstr2865,_FUNC_WORDTONUM_STRING_NUM);
+qbs_free(_FUNC_WORDTONUM_STRING_NUM);
+}
+qbs_free(_FUNC_WORDTONUM_STRING_WORD);

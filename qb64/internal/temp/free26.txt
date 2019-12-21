@@ -1,0 +1,4 @@
+if(oldstr2854){
+if(oldstr2854->fixed)qbs_set(oldstr2854,_FUNC_TODECIMAL_STRING_BINARY1);
+qbs_free(_FUNC_TODECIMAL_STRING_BINARY1);
+}

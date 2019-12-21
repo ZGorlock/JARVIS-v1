@@ -1,0 +1,12 @@
+qbs *_FUNC_HEXP_STRING_HEXP=NULL;
+if (!_FUNC_HEXP_STRING_HEXP)_FUNC_HEXP_STRING_HEXP=qbs_new(0,0);
+qbs *_FUNC_HEXP_STRING_T=NULL;
+if (!_FUNC_HEXP_STRING_T)_FUNC_HEXP_STRING_T=qbs_new(0,0);
+byte_element_struct *byte_element_2827=NULL;
+if (!byte_element_2827){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2827=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2827=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_2828=NULL;
+if (!byte_element_2828){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_2828=(byte_element_struct*)(mem_static_pointer-12); else byte_element_2828=(byte_element_struct*)mem_static_malloc(12);
+}

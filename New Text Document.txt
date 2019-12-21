@@ -1,0 +1,6 @@
+"psinfo -d -c"
+
+ZGORLOCK,2 days 14 hours 45 minutes 36 seconds,Microsoft Windows XP, Uniprocessor Free,Professional,5.1,3,2600,, ,8.0000,C:\WINDOWS,1,1.8 GHz,AMD Sempron(tm) Processor 3100+,2048 MB,NVIDIA GeForce4 MX 440-SE (Microsoft Corporation),C:,Fixed,NTFS,Hard Drive,69.87 GB,17.10 GB,24.5%,D:,Fixed,NTFS,Hard Drive,111.80 GB,17.29 GB,15.5%,E:,Fixed,FAT32,RECOVERY,4.65 GB,1.72 GB,37.1%,F:,CD-ROM,,,,,0.0%,G:,CD-ROM,,,,,0.0%,H:,CD-ROM,,,,,0.0%,I:,Fixed,NTFS,BACKUP,465.76 GB,385.84 GB,82.8%,J:,Removable,FAT32,USB DRIVE,14.91 GB,8.12 GB,54.4%
+
+
+"memsnap " + CHR$(34) + jarvisloc$ + "\temp\memsnap.log" + CHR$(34)

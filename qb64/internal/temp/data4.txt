@@ -1,0 +1,19 @@
+qbs*oldstr2778=NULL;
+if(_SUB_TXT2GUID_STRING_T->tmp||_SUB_TXT2GUID_STRING_T->fixed||_SUB_TXT2GUID_STRING_T->readonly){
+oldstr2778=_SUB_TXT2GUID_STRING_T;
+if (oldstr2778->cmem_descriptor){
+_SUB_TXT2GUID_STRING_T=qbs_new_cmem(oldstr2778->len,0);
+}else{
+_SUB_TXT2GUID_STRING_T=qbs_new(oldstr2778->len,0);
+}
+memcpy(_SUB_TXT2GUID_STRING_T->chr,oldstr2778->chr,oldstr2778->len);
+}
+int32 *_SUB_TXT2GUID_LONG_I=NULL;
+if(_SUB_TXT2GUID_LONG_I==NULL){
+_SUB_TXT2GUID_LONG_I=(int32*)mem_static_malloc(4);
+*_SUB_TXT2GUID_LONG_I=0;
+}
+int64 fornext_value2780;
+int64 fornext_finalvalue2780;
+int64 fornext_step2780;
+uint8 fornext_step_negative2780;

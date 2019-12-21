@@ -1,0 +1,2515 @@
+IP:98.230.75.166
+
+Testing,
+1, 2, 3
+Testing,
+Zack
+
+
+
+
+
+log.jdf
+--------------------------------------------------------------------------------------------------------------------------------
+JARVIS: the log has been cleared
+USER  : log
+JARVIS: opening log
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+08-21-2012 -- 22:10
+Time Spent: 108 
+Commands  : 14 
+Responses : 13 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+08-21-2012 -- 22:20
+USER  : computer
+JARVIS: yes sir
+USER  : update programs
+JARVIS: updating program list, this may take a while
+USER  : computer
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+08-21-2012 -- 22:20
+Time Spent: 16 
+Commands  : 4 
+Responses : 3 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+08-21-2012 -- 22:27
+USER  : computer
+JARVIS: yes sir
+08-21-2012 -- 22:28
+JARVIS: yes sir
+USER  : update programs
+JARVIS: updating program list, this may take a while
+Error: 9 : 20 
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+08-21-2012 -- 22:29
+Time Spent: 100 
+Commands  : 3 
+Responses : 4 
+Errors    : 1 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+08-21-2012 -- 22:32
+USER  : five
+USER  : to ten
+08-21-2012 -- 22:34
+USER  : computer
+JARVIS: yes sir
+USER  : update programs
+JARVIS: updating program list, this may take a while
+Error: 9 : 20 
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+08-21-2012 -- 22:35
+USER  : computer
+JARVIS: yes sir
+08-21-2012 -- 22:36
+USER  : update programs
+JARVIS: updating program list, this may take a while
+Error: 9 : 20 
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+08-21-2012 -- 22:38
+USER  : computer
+JARVIS: yes sir
+USER  : update program
+JARVIS: updating program list, this may take a while
+Error: 9 : 20 
+JARVIS: yes sir
+USER  : log
+JARVIS: opening log
+08-21-2012 -- 22:39
+USER  : to
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+08-21-2012 -- 22:39
+Time Spent: 60 
+Commands  : 4 
+Responses : 4 
+Errors    : 1 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+08-21-2012 -- 22:43
+USER  : computer
+JARVIS: yes sir
+USER  : update program
+JARVIS: updating program list, this may take a while
+Error: 9 : 5654 
+JARVIS: yes sir
+USER  : log
+JARVIS: opening log
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+08-21-2012 -- 22:43
+Time Spent: 51 
+Commands  : 4 
+Responses : 4 
+Errors    : 1 
+9:5654
+--------------------------------------------------------------------------------------------------------------------------------
+08-21-2012 -- 22:45
+USER  : computer
+JARVIS: yes sir
+USER  : update program
+JARVIS: updating program list, this may take a while
+08-21-2012 -- 22:46
+USER  : computer
+JARVIS: yes sir
+USER  : run page nest
+JARVIS: running PageNest
+USER  : computer
+JARVIS: yes sir
+USER  : run microsoft word
+JARVIS: running Microsoft Word 2010
+USER  : computer
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+08-21-2012 -- 22:46
+Time Spent: 36 
+Commands  : 8 
+Responses : 7 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+08-22-2012 -- 15:34
+USER  : computer
+JARVIS: yes sir
+USER  : minimize
+JARVIS: minimizing foreground window
+USER  : update programs
+JARVIS: updating program list, this may take a while
+08-22-2012 -- 15:35
+USER  : computer
+JARVIS: yes sir
+USER  : run audacity
+Error: 55 : 20 
+JARVIS: yes sir
+USER  : wallet
+USER  : log
+JARVIS: opening log
+USER  : computer
+JARVIS: yes sir
+USER  : close
+JARVIS: closing foreground window
+08-22-2012 -- 15:36
+USER  : to
+USER  : computer
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+08-22-2012 -- 15:43
+USER  : computer
+JARVIS: yes sir
+USER  : and
+JARVIS: your computer has been on for 1 hours, sir
+USER  : run up audacity
+JARVIS: running Audacity
+08-22-2012 -- 15:44
+USER  : to
+08-22-2012 -- 15:45
+USER  : recompile
+JARVIS: recompiling
+08-22-2012 -- 15:48
+USER  : computer
+JARVIS: yes sir
+USER  : run audacity
+JARVIS: running Audacity
+USER  : to
+USER  : ten
+USER  : to
+USER  : recompile
+JARVIS: recompiling
+08-22-2012 -- 15:50
+USER  : computer
+JARVIS: yes sir
+USER  : run audacity
+JARVIS: running Audacity
+USER  : to
+USER  : computer
+JARVIS: yes sir
+USER  : -and hikers southward
+USER  : with the consent word
+USER  : computer
+JARVIS: yes sir
+USER  : -and that this tethered
+USER  : that fact
+USER  : to microsoft
+USER  : and microsoft deferred
+08-22-2012 -- 15:51
+USER  : computer
+JARVIS: yes sir
+USER  : -
+08-22-2012 -- 15:52
+USER  : computer
+JARVIS: yes sir
+USER  : -vaughn microsoft word
+USER  : run
+USER  : with on the crew sold word
+USER  : than secluded despite or
+USER  : ten
+USER  : mouton
+USER  : on
+USER  : ten
+USER  : -
+USER  : tonight
+08-22-2012 -- 15:53
+USER  : to the date
+JARVIS: it is currently 08-22-2012
+USER  : to test
+USER  : contented
+USER  : content
+USER  : to computer
+JARVIS: yes sir
+USER  : -
+USER  : then take of soft word
+USER  : that
+USER  : to computer
+JARVIS: yes sir
+USER  : -
+08-22-2012 -- 15:54
+USER  : down
+USER  : run
+USER  : on odd that city
+USER  : run audacity
+JARVIS: running Audacity
+USER  : day
+JARVIS: today it is Wednesday
+USER  : today
+JARVIS: today it is Wednesday
+JARVIS: today it is Wednesday
+USER  : )
+USER  : computer
+JARVIS: yes sir
+USER  : -
+USER  : close
+JARVIS: closing foreground window
+USER  : death
+USER  : hitter
+USER  : content and
+USER  : computer
+JARVIS: yes sir
+USER  : -
+USER  : down step into spy where
+08-22-2012 -- 15:55
+USER  : step into spot where
+USER  : than decker stuffed with
+USER  : tear
+USER  : computer
+JARVIS: yes sir
+USER  : -
+USER  : computer
+JARVIS: yes sir
+USER  : -
+USER  : computer
+JARVIS: yes sir
+USER  : -
+USER  : did
+USER  : together
+USER  : computer
+JARVIS: yes sir
+USER  : -microsoft ordered
+USER  : that microsoft word
+USER  : and seek near
+08-22-2012 -- 15:56
+USER  : the than c. cleaner
+USER  : than
+USER  : ten
+USER  : run
+USER  : were often see cleaner
+USER  : than c. cleaner
+USER  : than simply near
+USER  : computer
+JARVIS: yes sir
+USER  : -
+USER  : counting
+USER  : intimate
+USER  : computer
+JARVIS: yes sir
+USER  : -tate
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+08-22-2012 -- 15:56
+Time Spent: 401 
+Commands  : 79 
+Responses : 22 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+08-22-2012 -- 15:57
+USER  : but
+USER  : computer
+JARVIS: yes sir
+USER  : but times
+USER  : what
+USER  : what time is it
+JARVIS: it is currently 3:57 PM
+USER  : run on past me
+JARVIS: running Steam
+USER  : computer
+JARVIS: yes sir
+USER  : run microsoft word
+JARVIS: running Microsoft Word 2010
+08-22-2012 -- 15:58
+USER  : close
+JARVIS: closing foreground window
+USER  : command prompt
+JARVIS: opening command prompt
+USER  : computer
+JARVIS: yes sir
+USER  : task manager
+JARVIS: launching task manager
+08-22-2012 -- 15:59
+USER  : said timer
+JARVIS: the system timer is 57544.56
+USER  : for twenty
+USER  : set timer for twenty seconds
+JARVIS: timer set
+USER  : timer
+JARVIS: the system timer is 57557.91
+JARVIS: it has been 20 seconds sir
+USER  : computer
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+08-22-2012 -- 15:59
+Time Spent: 156 
+Commands  : 18 
+Responses : 14 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+08-22-2012 -- 18:48
+USER  : standby
+JARVIS: yes sir
+USER  : hide
+USER  : standby
+JARVIS: yes sir
+USER  : show
+08-22-2012 -- 18:49
+USER  : on standby
+JARVIS: standby turned on
+JARVIS: yes sir
+USER  : standby off
+JARVIS: standby turned off
+USER  : standby
+08-22-2012 -- 20:10
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+08-22-2012 -- 20:14
+Time Spent: 5159 
+Commands  : 7 
+Responses : 5 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+08-23-2012 -- 19:10
+USER  : the
+USER  : move for
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : update programs
+JARVIS: updating program list, this may take a while
+USER  : and
+USER  : it
+USER  : computer
+JARVIS: yes sir
+USER  : user run microsoft word
+JARVIS: running Microsoft Word 2010
+USER  : run microsoft
+JARVIS: running Microsoft Word 2010
+08-23-2012 -- 19:11
+USER  : so stores will buy homes closest for
+USER  : say
+JARVIS: highschool never ends-bowling 4 soup
+USER  : it's
+USER  : wrong for
+USER  : for
+USER  : all
+JARVIS: select all
+USER  : in
+USER  : standby
+08-23-2012 -- 19:12
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+08-23-2012 -- 19:12
+Time Spent: 101 
+Commands  : 18 
+Responses : 7 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+08-28-2012 -- 21:27
+USER  : move to
+08-28-2012 -- 21:28
+USER  : who
+08-28-2012 -- 21:32
+USER  : n.
+08-28-2012 -- 21:39
+USER  : who
+08-28-2012 -- 21:40
+USER  : knew
+08-28-2012 -- 21:43
+USER  : who
+08-28-2012 -- 21:44
+USER  : day
+JARVIS: today it is Tuesday
+USER  : to day
+JARVIS: today it is Tuesday
+USER  : who
+08-28-2012 -- 21:48
+USER  : death
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+08-28-2012 -- 21:52
+Time Spent: 1490 
+Commands  : 10 
+Responses : 2 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+08-29-2012 -- 15:36
+USER  : stop
+USER  : hello
+JARVIS: yes sir
+USER  : and in the
+USER  : good
+JARVIS: yes
+USER  : the
+USER  : set up
+USER  : as a day
+JARVIS: today it is Wednesday
+USER  : banking and
+08-29-2012 -- 15:37
+USER  : mind and
+USER  : they go
+USER  : right to cut it
+JARVIS: indeed
+USER  : and it
+USER  : ,
+USER  : now i go
+USER  : you do not have access to this continent
+USER  : count the continent it's down
+USER  : home
+USER  : computer
+JARVIS: yes sir
+USER  : minimize
+JARVIS: minimizing foreground window
+08-29-2012 -- 15:38
+USER  : standby,
+JARVIS: yes sir
+USER  : hide
+USER  : minimize
+JARVIS: minimizing foreground window
+USER  : desktop
+JARVIS: showing desktop
+USER  : run microsoft word
+JARVIS: running Microsoft Word 2010
+USER  : in
+08-29-2012 -- 15:39
+USER  : new
+USER  : and
+USER  : computer
+JARVIS: yes sir
+USER  : user close
+JARVIS: closing foreground window
+USER  : paste
+JARVIS: pasting
+USER  : it
+USER  : select all
+JARVIS: select all
+USER  : copy
+JARVIS: copying
+USER  : and
+USER  : paste
+JARVIS: pasting
+USER  : and paste
+JARVIS: pasting
+USER  : and paste
+JARVIS: pasting
+USER  : select all
+JARVIS: select all
+USER  : copy
+JARVIS: copying
+USER  : and paste
+JARVIS: pasting
+USER  : and paste
+JARVIS: pasting
+USER  : and
+USER  : close
+JARVIS: closing foreground window
+USER  : enter
+USER  : enter
+08-29-2012 -- 15:40
+USER  : the kids which the fire auction standby
+08-29-2012 -- 15:41
+09-10-2012 -- 13:46
+USER  : movement for
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-10-2012 -- 13:46
+Time Spent: 7 
+Commands  : 1 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-13-2012 -- 13:55
+USER  : computer
+JARVIS: yes sir
+JARVIS: yes sir
+USER  : hide
+USER  : desktop
+JARVIS: showing desktop
+USER  : computer
+JARVIS: yes sir
+USER  : recycle bin
+JARVIS: opening recycle bin
+USER  : close
+JARVIS: closing foreground window
+JARVIS: closing foreground window
+USER  : and the recycle bin
+JARVIS: opening recycle bin
+USER  : and teen recycle bin
+JARVIS: opening recycle bin
+09-13-2012 -- 13:57
+USER  : to
+09-13-2012 -- 13:58
+USER  : ten
+USER  : computer
+JARVIS: yes sir
+USER  : clear recycle bin
+JARVIS: emptying recycle bin
+USER  : and
+USER  : computer
+JARVIS: yes sir
+USER  : close
+JARVIS: closing foreground window
+USER  : to close
+JARVIS: closing foreground window
+USER  : to show
+09-13-2012 -- 13:59
+USER  : anti
+USER  : and t.
+USER  : empty
+USER  : computer
+JARVIS: yes sir
+USER  : and the recycle bin
+JARVIS: opening recycle bin
+USER  : and the
+USER  : anti
+USER  : and t.
+USER  : empty
+USER  : empty recycle bin
+JARVIS: emptying recycle bin
+USER  : maple story on
+JARVIS: turning checking for maplestory commands on
+USER  : notepad
+JARVIS: opening a notepad
+09-13-2012 -- 14:00
+JARVIS: it is 2 o'clock PM sir
+USER  : username
+JARVIS: entering username
+USER  : password
+JARVIS: entering password
+USER  : all
+JARVIS: select all
+USER  : delete
+JARVIS: deleting
+USER  : close
+JARVIS: closing foreground window
+USER  : blue
+USER  : search and the three tax
+USER  : cool search and the three tax
+JARVIS: correct
+USER  : computer
+JARVIS: yes sir
+09-13-2012 -- 14:01
+USER  : global public license
+USER  : and global
+USER  : computer
+JARVIS: yes sir
+USER  : global gym you public license
+USER  : crew will
+USER  : be global
+USER  : group will
+USER  : green
+USER  : global
+USER  : computer
+JARVIS: yes sir
+USER  : i p.
+USER  : ip
+09-13-2012 -- 14:02
+USER  : i. p.
+USER  : computer
+JARVIS: yes sir
+USER  : with your name
+JARVIS: my name is JARVIS, but my friends call me Just Another Rather Very Intelligent System
+USER  : which has
+USER  : what time is it
+JARVIS: it is currently 2:02 PM
+USER  : was to moral
+USER  : what is tomorrow
+JARVIS: tomorrow is Friday
+USER  : what is today
+JARVIS: today it is Thursday
+USER  : among this
+09-13-2012 -- 14:03
+USER  : what month is it
+JARVIS: it is currently the month of September
+USER  : would be your is it
+USER  : twenty years it
+USER  : would be your is it
+USER  : your
+USER  : with your
+USER  : your
+USER  : year
+JARVIS: it is the year 2012
+USER  : five
+USER  : date
+JARVIS: it is currently 09-13-2012
+USER  : set timer for 30 seconds
+JARVIS: timer set
+USER  : internet
+JARVIS: launching browser
+USER  : to close
+JARVIS: closing foreground window
+USER  : hide
+09-13-2012 -- 14:04
+JARVIS: it has been 30 seconds sir
+USER  : thank you
+JARVIS: you are welcome sir
+USER  : my name is bob
+JARVIS: your name is bob, is that right
+USER  : canal
+USER  : to know
+USER  : computer
+JARVIS: yes sir
+USER  : my name is bob
+JARVIS: your name is bob, is that right
+USER  : no
+JARVIS: maybe you would like to type it instead, enter your name in the box, when you are done press Enter, if the box is empty the query will be discarded
+JARVIS: i have saved your name as bob
+USER  : computer
+JARVIS: yes bob
+USER  : thank you
+JARVIS: you are welcome bob
+USER  : my name is served
+JARVIS: your name is served, is that right
+USER  : no
+JARVIS: maybe you would like to type it instead, enter your name in the box, when you are done press Enter, if the box is empty the query will be discarded
+09-13-2012 -- 14:05
+JARVIS: i have saved your name as sir
+JARVIS: your computer has been on for 80 hours, sir
+USER  : to read
+JARVIS: I was working on it some, I changed the default size of the cubes to be 1x1x1 and they can figure out all the points from one point. It can also read the data now but I am going to need to fix it up later to accommodate multiple sectors, their reading and writing, and their editing. But for now 1 will do for testing.
+USER  : stop
+USER  : computer
+JARVIS: yes sir
+09-13-2012 -- 14:06
+USER  : show
+USER  : read
+JARVIS: I was working on it some, I changed the default size of the cubes to be 1x1x1 and they can figure out all the points from one point. It can also read the data now but I am going to need to fix it up later to accommodate multiple sectors, their reading and writing, and their editing. But for now 1 will do for testing.
+USER  : stop
+USER  : computer
+JARVIS: yes sir
+USER  : read
+JARVIS: I was working on it some, I changed the default size of the cubes to be 1x1x1 and they can figure out all the points from one point. It can also read the data now but I am going to need to fix it up later to accommodate multiple sectors, their reading and writing, and their editing. But for now 1 will do for testing.
+
+When I changed the size (and probably some other things, im not sure what is causing it) the cubes always look like they are leaning towards your position when you first open the program, then as you turn it doesnt change to you. Also when you rotate about the cube body you go very far from it on one side. I am not sure how to change the equations to make it move differently, I was looking to be able to move the POV and also rotate about the POV, but have the cubes remain stationary. If someone could explain the code, or comment it or something, in the camera SUB (I believe the movement functions would be here) I would be very appreciative.
+USER  : it to
+09-13-2012 -- 14:07
+USER  : computer
+JARVIS: yes sir
+USER  : clear clipboard
+JARVIS: cliboard cleared
+USER  : notepad
+JARVIS: opening a notepad
+USER  : taste
+USER  : paste
+JARVIS: pasting
+09-13-2012 -- 14:08
+USER  : the
+USER  : read
+JARVIS: The initizialitation:
+eyedist is the distance from camera(eye) to origin.
+latitu and longitu are latitude and longitude (think of the earth) and the initial values are just arbitray angles I came up with it so you start viewing it at an agle and not face on.
+
+The controls function by changing eyedist (zooming in and out) or changing latitude or longitude.
+If then you want to change this, you 'll need to supply a different equation for the camera and appropriate controls.
+
+None of the code I gave affected the cube's coords so it was always supposed to be stationary, not sure if that's what you mean.
+09-13-2012 -- 14:09
+USER  : clear clipboard
+JARVIS: cliboard cleared
+USER  : check for updates
+JARVIS: There is an update available, would you like to download it?
+JARVIS: There is an update available, would you like to download it?
+USER  : and
+USER  : no
+USER  : computer
+JARVIS: yes sir
+USER  : version
+JARVIS: i am currently version 0.01
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-13-2012 -- 14:09
+Time Spent: 834 
+Commands  : 107 
+Responses : 68 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-13-2012 -- 14:27
+USER  : computer
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+09-13-2012 -- 14:32
+USER  : computer
+JARVIS: yes sir
+USER  : i p.
+USER  : ip
+09-13-2012 -- 14:33
+USER  : i. p.
+USER  : computer
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+09-13-2012 -- 14:35
+USER  : computer
+JARVIS: yes sir
+USER  : reposition medals
+JARVIS: repositioning
+USER  : reposition middle
+JARVIS: repositioning
+USER  : eyed pea
+USER  : ip
+USER  : inverse
+USER  : and inverse
+USER  : can converse
+USER  : twenty hinders
+09-13-2012 -- 14:36
+USER  : 25 inverse
+JARVIS:  .04
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-13-2012 -- 14:36
+Time Spent: 58 
+Commands  : 11 
+Responses : 4 
+Errors    : 0 
+53:20
+--------------------------------------------------------------------------------------------------------------------------------
+09-13-2012 -- 14:37
+USER  : repossession
+09-13-2012 -- 14:38
+USER  : reposition
+JARVIS: repositioning
+USER  : the ip
+USER  : recompile
+JARVIS: recompiling
+09-13-2012 -- 14:39
+USER  : ip
+JARVIS: your current ip adress is 
+USER  : computer
+JARVIS: yes sir
+USER  : to
+USER  : computer
+JARVIS: yes sir
+USER  : save
+JARVIS: saving
+USER  : recompile
+JARVIS: recompiling
+09-13-2012 -- 14:43
+USER  : computer
+JARVIS: yes sir
+USER  : e. e.
+USER  : computer
+JARVIS: yes sir
+USER  : i p.
+USER  : ip
+09-13-2012 -- 14:44
+USER  : ip
+JARVIS: your current ip adress is 
+USER  : ip
+09-13-2012 -- 14:45
+USER  : ip
+USER  : computer
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+09-13-2012 -- 14:48
+USER  : the
+USER  : computer
+JARVIS: yes sir
+JARVIS: yes sir
+USER  : ip
+09-13-2012 -- 15:03
+USER  : ip
+JARVIS: your current ip adress is 98.230.75.166
+USER  : but
+09-13-2012 -- 15:04
+USER  : the
+USER  : five
+09-13-2012 -- 15:05
+USER  : to
+USER  : computer
+JARVIS: yes sir
+JARVIS: your computer has been on for 81 hours, sir
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+09-13-2012 -- 15:08
+USER  : computer
+JARVIS: yes sir
+USER  : i p.
+USER  : i. p.
+USER  : ip
+JARVIS: your current ip adress is 173.245.64.122
+JARVIS: your current ip adress is 98.230.75.166
+USER  : update programs
+JARVIS: updating program list, this may take a while
+USER  : computer
+JARVIS: yes sir
+USER  : run maple story
+JARVIS: running Solitaire
+09-13-2012 -- 15:09
+USER  : run maplestory
+JARVIS: running Solitaire
+USER  : to terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-13-2012 -- 15:09
+Time Spent: 96 
+Commands  : 9 
+Responses : 7 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-13-2012 -- 15:11
+USER  : computer
+JARVIS: yes sir
+USER  : update programs
+JARVIS: updating program list, this may take a while
+USER  : computer
+JARVIS: yes sir
+USER  : run maplestory
+JARVIS: running Solitaire
+09-13-2012 -- 15:12
+USER  : the
+09-13-2012 -- 15:13
+USER  : death
+09-13-2012 -- 15:15
+USER  : 1010
+USER  : computer
+JARVIS: yes sir
+USER  : hide
+USER  : standby
+09-13-2012 -- 15:17
+09-13-2012 -- 15:23
+USER  : the compound
+USER  : recompile
+JARVIS: recompiling
+09-13-2012 -- 15:33
+USER  : computer
+JARVIS: yes sir
+USER  : update programs
+JARVIS: updating program list, this may take a while
+USER  : computer
+JARVIS: yes sir
+USER  : and i t.
+USER  : i. p.
+USER  : ip
+JARVIS: your current ip adress is 98.230.75.166
+USER  : copy ip
+JARVIS: your current ip adress is 98.230.75.166
+USER  : paste
+JARVIS: pasting
+09-13-2012 -- 15:34
+USER  : computer
+JARVIS: yes sir
+USER  : run make the story
+JARVIS: running Hearts
+USER  : run
+USER  : braun maple story
+JARVIS: turning checking for maplestory commands on
+USER  : maple story off
+JARVIS: turning checking for maplestory commands off
+USER  : rotten maple story
+JARVIS: turning checking for maplestory commands on
+09-13-2012 -- 15:35
+USER  : papas story off
+USER  : maple story off
+JARVIS: turning checking for maplestory commands off
+USER  : run maple story
+JARVIS: running MapleStory
+USER  : computer
+JARVIS: yes sir
+09-13-2012 -- 15:36
+USER  : to computer
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+09-13-2012 -- 15:37
+USER  : computer
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-13-2012 -- 15:38
+Time Spent: 312 
+Commands  : 22 
+Responses : 17 
+Errors    : 0 
+76:20
+--------------------------------------------------------------------------------------------------------------------------------
+09-13-2012 -- 15:41
+USER  : computer
+JARVIS: yes sir
+USER  : ip
+JARVIS: your current ip adress is 98.230.75.166
+USER  : i. p.
+USER  : computer
+JARVIS: yes sir
+USER  : i p.
+USER  : i. p.
+USER  : computer
+JARVIS: yes sir
+USER  : ip
+JARVIS: your current ip adress is 98.230.75.166
+USER  : recompile
+JARVIS: recompiling
+USER  : to
+09-13-2012 -- 15:43
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-13-2012 -- 15:43
+Time Spent: 85 
+Commands  : 11 
+Responses : 6 
+Errors    : 0 
+52:20
+--------------------------------------------------------------------------------------------------------------------------------
+09-13-2012 -- 15:54
+USER  : computer
+JARVIS: yes sir
+USER  : at the
+USER  : ip
+JARVIS: your current ip adress is 98.230.75.166
+USER  : i. p.
+09-13-2012 -- 15:55
+USER  : an i. p.
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-13-2012 -- 15:55
+Time Spent: 50 
+Commands  : 5 
+Responses : 2 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-13-2012 -- 16:05
+USER  : i. p.
+USER  : if
+USER  : ip
+JARVIS: your current ip adress is 98.230.75.166
+USER  : an i p.
+JARVIS: your computer has been on for 82 hours, sir
+09-13-2012 -- 16:06
+USER  : recompile
+JARVIS: recompiling
+09-13-2012 -- 16:07
+USER  : i p
+USER  : i. p.
+USER  : i p.
+USER  : i. p.
+USER  : what's mighty
+09-13-2012 -- 16:08
+USER  : ducks my 90
+USER  : what's my ip
+JARVIS: your current ip adress is 98.230.75.166
+USER  : copy i p.
+JARVIS: copying
+USER  : copy i p.
+JARVIS: copying
+USER  : copy i p.
+JARVIS: copying
+USER  : copy i. p. address
+JARVIS: copying
+USER  : copy my ip
+JARVIS: copying ip adress to clipboard
+USER  : note pad
+JARVIS: opening a notepad
+USER  : taste
+USER  : paste
+JARVIS: pasting
+USER  : close
+JARVIS: closing foreground window
+USER  : right
+JARVIS: right
+USER  : to skate
+USER  : escape
+09-13-2012 -- 16:09
+USER  : enter
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-13-2012 -- 16:09
+Time Spent: 99 
+Commands  : 21 
+Responses : 10 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-15-2012 -- 13:29
+USER  : a
+USER  : were germans
+USER  : computer
+JARVIS: yes sir
+USER  : blue
+USER  : and hide
+USER  : computer
+JARVIS: yes sir
+USER  : what time is it
+JARVIS: it is currently 1:29 PM
+USER  : what is the date
+JARVIS: it is currently 09-15-2012
+09-15-2012 -- 13:30
+USER  : what is my name
+JARVIS: your name is sir
+USER  : know my name is act
+JARVIS: your name is act, is that right
+USER  : no
+JARVIS: maybe you would like to type it instead, enter your name in the box, when you are done press Enter, if the box is empty the query will be discarded
+JARVIS: i have saved your name as zack
+USER  : for
+USER  : computer
+JARVIS: yes zack
+USER  : for
+USER  : the open notepad
+JARVIS: opening a notepad
+USER  : and
+USER  : begin dictation
+JARVIS: dictation started
+USER  : hello
+USER  : this is an example of me using dictation
+USER  : and dictation
+USER  : and dictation
+USER  : stop dictation
+JARVIS: dictation stopped
+USER  : all
+JARVIS: select all
+USER  : delete
+JARVIS: deleting
+USER  : close
+JARVIS: closing foreground window
+USER  : empty recycle bin
+JARVIS: emptying recycle bin
+09-15-2012 -- 13:31
+USER  : cool search for by four rubik's cube
+JARVIS: right
+USER  : it
+USER  : cool surged four by four rubik's cube
+JARVIS: correct
+USER  : a computer
+JARVIS: yes zack
+USER  : show
+USER  : reposition middle
+JARVIS: repositioning
+USER  : and green
+USER  : google search 4x4 rubix cube
+JARVIS: opening google
+USER  : moving some
+USER  : since
+USER  : you a call for
+USER  : the search
+USER  : for
+USER  : google search 4x4 rubix cube
+JARVIS: opening google
+09-15-2012 -- 13:32
+USER  : search 4x4 rubix cube
+USER  : it served in
+USER  : many zones and you do in your face book
+JARVIS: opening facebook
+USER  : moving
+USER  : close
+JARVIS: closing foreground window
+USER  : reposition a
+JARVIS: repositioning
+USER  : what's 48 times 63
+JARVIS:  3024
+USER  : but we're
+USER  : meant to reduce the only doing tonight, but they will be for the
+09-15-2012 -- 13:33
+USER  : pope and simple calculator
+JARVIS: launching simple calculator
+USER  : moving for open complex calculator
+JARVIS: launching calculator
+USER  : moving for
+USER  : scientific calculator
+JARVIS: launching scientific calculator
+USER  : for
+USER  : stir in
+USER  : an almost run anything here
+JARVIS: running Cheat Engine 6.1
+USER  : computer and
+JARVIS: yes zack
+USER  : update programs
+JARVIS: updating program list, this may take a while
+USER  : and
+USER  : for
+USER  : good and
+JARVIS: ok
+USER  : computer
+JARVIS: yes zack
+09-15-2012 -- 13:34
+USER  : the two
+USER  : the running game
+USER  : run jim
+USER  : run the dough be photoshop
+JARVIS: running Adobe Photoshop CS5.1
+USER  : begging for the new the is for, say in cs by
+JARVIS: p = _LOADIMAGE("a.bmp")  
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-15-2012 -- 13:34
+Time Spent: 328 
+Commands  : 67 
+Responses : 36 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-15-2012 -- 13:35
+USER  : movement
+USER  : internet
+JARVIS: launching browser
+USER  : for
+USER  : the grad
+USER  : jeanne jones,
+USER  : computer
+JARVIS: yes zack
+USER  : compete
+USER  : computer
+JARVIS: yes zack
+USER  : user
+USER  : control panel
+JARVIS: opening control panel
+USER  : movement for
+09-15-2012 -- 13:36
+USER  : computer
+JARVIS: yes zack
+USER  : user
+USER  : computer
+JARVIS: yes zack
+USER  : user
+USER  : what's your name
+JARVIS: my name is JARVIS, but my friends call me Just Another Rather Very Intelligent System
+USER  : it
+USER  : computer
+JARVIS: yes zack
+USER  : user
+USER  : agent and computer
+JARVIS: yes zack
+USER  : the quarry the
+USER  : new
+USER  : them is
+USER  : movement
+USER  : the economic conversation of events is not been wiped off the new law still
+USER  : the as ny sloan some of my own home movies that no way to do
+09-15-2012 -- 13:37
+USER  : in the visual revision to a few it in his day in the real are now we have a network vest on windows nt
+JARVIS: today it is Saturday
+USER  : and new
+USER  : vote and loan, saw its way
+USER  : to read this
+JARVIS: QB64 is a modern version of the Basic programming language that allows programs created using Quick Basic 4.5 or Qbasic to run on Windows XP, Vista, Windows 7, Linux and Mac OSX. It will work on 32 or 64 bit machines and has many new features such as stereo sound, improved graphics and TCP/IP internet capabilities. QB64 can make fast and reliable programs for the entire family!
+
+Programming in Basic is EASY! You don't need to learn much to get started as it uses many statements and function words that are familiar to you. You can learn to program in days instead of weeks! If you need help there is a forum to ask for help and this WIKI has many example programs that you can run to see how things work. Download QB64 and take a ride into the wonderful world of programming! We are sure that you will enjoy the experience! We have programmers from age 10 to over 60. Welcome aboard!
+USER  : isn't moving to move in with this in, there's a movement is for tuesday to move into the issues of interest and jeff this, and tuesday for a moving to visit friends movement for
+USER  : moving day
+JARVIS: today it is Saturday
+USER  : for the giants in the various thing is
+09-15-2012 -- 13:38
+USER  : stop
+USER  : with two for five
+USER  : a and this isn't a new
+USER  : set timer for twenty seconds
+JARVIS: timer set
+USER  : for
+USER  : what time is it
+JARVIS: it is currently 1:38 PM
+USER  : in
+USER  : close
+JARVIS: closing foreground window
+JARVIS: it has been 20 seconds zack
+USER  : for
+USER  : my name is sir
+JARVIS: your name is sir, is that right
+USER  : yes
+JARVIS: i have saved your name as sir
+USER  : moving for an eye for an for it, it says that, that's the
+USER  : in thing he can change the audio
+USER  : months pictures
+09-15-2012 -- 13:39
+USER  : with
+USER  : enter
+USER  : n. the crease volume
+JARVIS: launching volume panel
+USER  : two years
+USER  : mute
+JARVIS: volume muted
+USER  : and years and yet
+USER  : a
+USER  : a a
+USER  : computer
+JARVIS: yes sir
+JARVIS: yes sir
+USER  : is in
+USER  : this
+USER  : mute
+JARVIS: volume muted
+09-15-2012 -- 13:40
+USER  : unmute
+JARVIS: volume unmuted
+USER  : , forward: since a lot
+USER  : on mute
+JARVIS: volume muted
+JARVIS: volume muted
+JARVIS: volume muted
+USER  : unmute
+JARVIS: volume unmuted
+USER  : with its it for all the fun and
+JARVIS: select all
+USER  : unleaded
+USER  : ,
+USER  : but
+USER  : computer
+JARVIS: yes sir
+USER  : user open door to disk h.
+USER  : open door to drive h.
+JARVIS: opening door to h:
+09-15-2012 -- 13:41
+USER  : , each is
+USER  : its
+USER  : open door to drive f.
+JARVIS: opening door to f:
+USER  : closed door to that
+USER  : closed door to drive about
+USER  : closed door to drive f
+JARVIS: opening door to f:
+USER  : closed door to drive f.
+JARVIS: opening door to f:
+USER  : and it
+USER  : closed doors closed for something
+USER  : is for
+USER  : minimize
+JARVIS: minimizing foreground window
+USER  : movement for desktop
+JARVIS: showing desktop
+USER  : and
+09-15-2012 -- 13:42
+USER  : standby
+JARVIS: yes sir
+USER  : hide
+USER  : standby
+JARVIS: yes sir
+USER  : show
+USER  : is in the things he will
+USER  : it
+USER  : will be really
+USER  : put computer to sleep
+JARVIS: yes sir
+JARVIS: putting computer to sleep
+09-15-2012 -- 22:28
+JARVIS: this is about the time you usually close me
+09-15-2012 -- 22:29
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-15-2012 -- 22:43
+Time Spent: 32873 
+Commands  : 91 
+Responses : 41 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-20-2012 -- 21:35
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+USER  : but
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+ERROR : New reference count: 0x00000000
+JARVIS: your computer has been inactive for 0 hours, sir
+ERROR : New reference count: 0x00000000
+JARVIS: your computer has been inactive for 0 hours, sir
+ERROR : New reference count: 0x00000000
+09-20-2012 -- 21:35
+Time Spent: 25 
+Commands  : 1 
+Responses : 71 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-20-2012 -- 21:38
+USER  : the
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+09-20-2012 -- 21:39
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+JARVIS: your computer has been inactive for 0 hours, sir
+ERROR : New reference count: 0x00000000
+JARVIS: your computer has been inactive for 0 hours, sir
+ERROR : New reference count: 0x00000000
+JARVIS: your computer has been inactive for 0 hours, sir
+ERROR : New reference count: 0x00000000
+09-20-2012 -- 21:39
+Time Spent: 19 
+Commands  : 1 
+Responses : 35 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-20-2012 -- 21:41
+USER  : hello
+JARVIS: yes sir
+USER  : the
+USER  : desktop
+JARVIS: showing desktop
+09-20-2012 -- 21:42
+USER  : desktop
+JARVIS: showing desktop
+JARVIS: showing desktop
+USER  : open door to drive h.
+JARVIS: opening door to h:
+USER  : open door to drive j.
+JARVIS: opening door to j:
+USER  : open door to drive i.
+JARVIS: opening door to i:
+USER  : open door to drive h
+JARVIS: opening door to h:
+USER  : the
+USER  : my computer
+JARVIS: opening my computer
+09-20-2012 -- 21:43
+USER  : my documents
+JARVIS: opening my documents
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-20-2012 -- 21:43
+Time Spent: 117 
+Commands  : 11 
+Responses : 10 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-20-2012 -- 21:44
+USER  : computer
+JARVIS: yes sir
+USER  : open my documents
+JARVIS: opening my documents
+USER  : calculator
+JARVIS: launching calculator
+USER  : ten times 24
+JARVIS:  240
+USER  : recompile
+JARVIS: recompiling
+09-20-2012 -- 21:46
+USER  : computer
+JARVIS: yes sir
+USER  : mike and peter
+USER  : mike computer
+JARVIS: yes sir
+USER  : my computer
+JARVIS: opening my computer
+USER  : to terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-20-2012 -- 21:46
+Time Spent: 38 
+Commands  : 5 
+Responses : 3 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-20-2012 -- 21:50
+USER  : computer
+JARVIS: yes sir
+USER  : my computer
+JARVIS: opening my computer
+USER  : the
+USER  : open drive j
+JARVIS: opening j:
+09-20-2012 -- 21:51
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-20-2012 -- 21:51
+Time Spent: 38 
+Commands  : 5 
+Responses : 3 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-20-2012 -- 22:02
+USER  : computer
+JARVIS: yes sir
+USER  : my computer
+JARVIS: opening my computer
+USER  : desktop
+JARVIS: showing desktop
+USER  : jervis
+USER  : location
+JARVIS: D:\Coding\JARVIS\JARVIS
+09-20-2012 -- 22:03
+USER  : of the location
+JARVIS: D:\Coding\JARVIS\JARVIS
+JARVIS: D:\Coding\JARVIS\JARVIS
+USER  : to
+USER  : update location
+JARVIS: There is an update available, would you like to download it?
+USER  : no
+USER  : computer
+JARVIS: yes sir
+09-20-2012 -- 22:04
+USER  : they
+09-20-2012 -- 22:05
+USER  : ,
+JARVIS: your computer has been on for 256 hours, sir
+09-20-2012 -- 22:06
+USER  : if
+09-20-2012 -- 22:07
+USER  : ten
+USER  : to
+09-20-2012 -- 22:08
+USER  : five
+USER  : to ten
+USER  : ten
+09-20-2012 -- 22:09
+USER  : 1010
+USER  : ten
+USER  : 1010
+09-20-2012 -- 22:10
+USER  : five
+USER  : to ten
+09-20-2012 -- 22:11
+USER  : to
+09-20-2012 -- 22:12
+USER  : ten
+USER  : who
+09-20-2012 -- 22:13
+USER  : and
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-20-2012 -- 22:13
+Time Spent: 671 
+Commands  : 27 
+Responses : 9 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+09-20-2012 -- 22:32
+USER  : computer
+JARVIS: yes sir
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-20-2012 -- 22:32
+Time Spent: 24 
+Commands  : 1 
+Responses : 1 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+09-20-2012 -- 22:38
+USER  : computer
+JARVIS: yes sir
+USER  : focus
+09-20-2012 -- 22:39
+USER  : ten
+09-20-2012 -- 22:41
+USER  : recompile
+JARVIS: recompiling
+09-20-2012 -- 22:42
+USER  : computer
+JARVIS: yes sir
+USER  : focus
+JARVIS: switching to focus
+09-20-2012 -- 22:43
+USER  : computer
+JARVIS: yes sir
+09-25-2012 -- 17:50
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+09-25-2012 -- 17:50
+Time Spent: 7 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+ERROR : Could not set hotkey.
+09-25-2012 -- 17:50
+USER  : computer
+JARVIS: yes sir
+USER  : to close
+JARVIS: closing foreground window
+USER  : computer
+JARVIS: yes sir
+09-25-2012 -- 17:51
+USER  : to computer
+JARVIS: yes sir
+USER  : to
+USER  : screen shot
+JARVIS: screen shot
+JARVIS: screen shot
+JARVIS: screen shot
+USER  : to
+09-25-2012 -- 17:52
+USER  : screen shot
+JARVIS: screen shot
+09-25-2012 -- 17:53
+JARVIS: screen shot
+USER  : to death
+USER  : ten to ten
+USER  : ten
+USER  : 101010
+USER  : screen shot
+JARVIS: screen shot
+09-25-2012 -- 17:54
+JARVIS: screen shot
+JARVIS: screen shot
+USER  : to death
+USER  : screen shot folder
+JARVIS: screen shot
+JARVIS: screen shot
+USER  : open to all there for screen shots
+USER  : computer
+JARVIS: yes sir
+USER  : open screen shot folder
+JARVIS: opening screen shot folder
+09-25-2012 -- 17:55
+USER  : with
+USER  : the computer
+JARVIS: yes sir
+USER  : standby
+09-25-2012 -- 17:56
+10-07-2012 -- 13:17
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+10-07-2012 -- 13:19
+Time Spent: 79 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+ERROR : Could not set hotkey.
+10-07-2012 -- 13:19
+10-07-2012 -- 13:20
+USER  : but
+10-07-2012 -- 13:21
+USER  : nate
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+10-07-2012 -- 13:22
+Time Spent: 183 
+Commands  : 3 
+Responses : 0 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+ERROR : Could not set hotkey.
+10-10-2012 -- 22:44
+10-10-2012 -- 22:45
+USER  : computer
+JARVIS: yes sir
+USER  : what time is it
+JARVIS: it is currently 10:46 PM
+USER  : but
+10-10-2012 -- 22:47
+ERROR : Could not set hotkey.
+10-10-2012 -- 23:19
+10-10-2012 -- 23:20
+USER  : to move computer
+JARVIS: yes sir
+USER  : knock knock
+USER  : reposition
+JARVIS: repositioning
+10-10-2012 -- 23:21
+USER  : computer
+JARVIS: yes sir
+USER  : and recompile
+JARVIS: recompiling
+ERROR : Could not set hotkey.
+10-10-2012 -- 23:24
+USER  : computer
+JARVIS: yes sir
+10-10-2012 -- 23:25
+USER  : log
+JARVIS: opening log
+10-10-2012 -- 23:26
+USER  : computer
+JARVIS: yes sir
+USER  : times in
+USER  : the times and
+USER  : that time is it
+JARVIS: it is currently 11:27 PM
+10-10-2012 -- 23:28
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+10-10-2012 -- 23:28
+Time Spent: 246 
+Commands  : 7 
+Responses : 4 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+ERROR : Could not set hotkey.
+10-13-2012 -- 16:11
+ERROR : Could not set hotkey.
+10-13-2012 -- 16:12
+USER  : and for computer
+JARVIS: yes sir
+USER  : user
+USER  : hide
+USER  : reposition middle
+JARVIS: repositioning
+USER  : and huge reposition bottom right
+JARVIS: repositioning
+USER  : to use the
+USER  : reposition
+JARVIS: repositioning
+USER  : it hide
+USER  : close
+JARVIS: closing foreground window
+JARVIS: closing foreground window
+USER  : he can close the
+JARVIS: closing foreground window
+USER  : moving in, and
+USER  : close
+JARVIS: closing foreground window
+USER  : is
+USER  : , in
+10-13-2012 -- 16:13
+USER  : control panel
+JARVIS: opening control panel
+USER  : it
+USER  : , and
+USER  : crystal and do it
+USER  : computer
+JARVIS: yes sir
+USER  : the island of the homes that the
+USER  : unit
+USER  : the
+USER  : i'm off by our
+USER  : the
+USER  : the the the new and is now computer
+JARVIS: yes sir
+USER  : it for
+USER  : computer
+JARVIS: yes sir
+USER  : -
+10-13-2012 -- 16:14
+USER  : out, it did in the media "it will tolerate it in the
+USER  : new some might rosa of mine is that it will lose its
+USER  : can
+USER  : computer
+JARVIS: yes sir
+USER  : use
+USER  : purcell's
+USER  : and
+USER  : computer
+JARVIS: yes sir
+USER  : user close
+JARVIS: closing foreground window
+USER  : show
+USER  : log
+JARVIS: opening log
+USER  : minimize
+JARVIS: minimizing foreground window
+USER  : the
+USER  : desktop
+JARVIS: showing desktop
+USER  : for for
+10-13-2012 -- 16:15
+USER  : hide system clock
+JARVIS: hiding system clock
+USER  : users
+USER  : windows
+JARVIS: opening Windows folder
+USER  : it
+USER  : in the could some
+USER  : of the
+USER  : open internet
+JARVIS: launching browser
+USER  : home and room for
+USER  : computer
+JARVIS: yes sir
+USER  : user
+10-13-2012 -- 16:16
+USER  : global search jervis
+USER  : global search jarvis
+JARVIS: yes sir
+USER  : user
+USER  : google search jarvis
+JARVIS: opening google
+USER  : for
+USER  : the pc's will
+USER  : ch jarvis
+JARVIS: yes sir
+USER  : for for
+USER  : hide
+USER  : standby
+10-13-2012 -- 16:17
+JARVIS: yes sir
+10-13-2012 -- 16:19
+USER  : user
+USER  : all
+JARVIS: select all
+USER  : human
+USER  : copy
+JARVIS: copying
+USER  : and
+USER  : paste
+JARVIS: pasting
+USER  : tuesday
+USER  : for
+USER  : computer
+JARVIS: yes sir
+USER  : user delete
+USER  : delete
+JARVIS: deleting
+USER  : in yes
+USER  : enter
+USER  : .  "
+USER  : stand by
+10-13-2012 -- 16:20
+JARVIS: yes sir
+10-13-2012 -- 16:33
+USER  : user
+USER  : run maple story
+JARVIS: running MapleStory
+USER  : for
+USER  : , but
+USER  : that were
+USER  : says, the citizenry in
+USER  : the
+USER  : new news,
+USER  : ,,
+USER  : home to
+USER  : constitute
+USER  : a tool that
+USER  : the
+10-13-2012 -- 16:34
+USER  : way he said
+USER  : the
+USER  : says, and i
+USER  : basically the
+USER  : dns that the whole, access, uses she fears
+USER  : the two
+USER  : ,
+USER  : who visited places, said steve
+USER  : 
+still
+USER  : saw
+USER  : ,
+USER  : the
+USER  : u.s. and for
+USER  : two to
+USER  : visit a new so why a
+USER  : new spring
+USER  : , the
+10-13-2012 -- 16:35
+USER  : allied a
+USER  : s. a conservation,
+USER  : is to ask you to
+USER  : move
+USER  : , yeah
+USER  : , but a
+USER  : july a
+USER  : moving my city
+USER  : to
+10-13-2012 -- 16:36
+USER  : the new
+USER  : home
+USER  : has more
+USER  : why
+USER  : who
+USER  : own news, then
+USER  : have a more
+USER  : ,
+USER  : and
+USER  : they
+USER  : say, we're
+JARVIS: OPEN "b.png" FOR BINARY AS #2    
+USER  : a home
+10-13-2012 -- 16:37
+USER  : sales in the new
+USER  : let
+USER  : way for
+USER  : read
+JARVIS: OPEN "b.png" FOR BINARY AS #2    
+USER  : in the
+USER  : computer
+JARVIS: yes sir
+USER  : and maples story
+JARVIS: turning checking for maplestory commands on
+USER  : password
+JARVIS: entering password
+USER  : for enter
+USER  : and
+USER  : it
+USER  : by the employees of it services were in
+USER  : it but it might
+10-13-2012 -- 16:38
+USER  : , and as the technical
+USER  : for
+USER  : the years since it's constants
+USER  : for
+USER  : his
+USER  : phone
+USER  : call
+USER  : it the
+10-13-2012 -- 16:39
+USER  : 
+in, since two
+USER  : two for the move is
+USER  : in use today in washington that sells everything
+JARVIS: today it is Saturday
+USER  : computer
+JARVIS: yes sir
+USER  : use
+USER  : the
+USER  : computer
+JARVIS: yes sir
+USER  : news for
+USER  : standby
+10-13-2012 -- 16:40
+JARVIS: yes sir
+USER  : and
+USER  : used to
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+10-13-2012 -- 16:47
+Time Spent: 2110 
+Commands  : 162 
+Responses : 42 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+ERROR : Could not set hotkey.
+10-20-2012 -- 15:13
+USER  : but
+USER  : for
+USER  : home
+USER  : computer
+JARVIS: yes sir
+USER  : user open my videos
+JARVIS: opening my videos
+USER  : and
+USER  : will let go for
+10-20-2012 -- 15:14
+USER  : computer
+JARVIS: yes sir
+USER  : user open my documents
+JARVIS: opening my documents
+USER  : it
+USER  : the "you
+USER  : face book
+JARVIS: opening facebook
+USER  : though the
+USER  : it were
+USER  : in
+10-20-2012 -- 15:15
+JARVIS: your computer has been on for 15 hours, sir
+USER  : , for now in
+USER  : five
+USER  : were
+USER  : to
+10-20-2012 -- 15:16
+USER  : you to move is to do it as a
+USER  : move
+USER  : to move a
+USER  : home, got here
+USER  : ten
+USER  : thanks for
+JARVIS: you are welcome sir
+USER  : user who had been
+USER  : in
+USER  : yo
+JARVIS: yes sir
+USER  : user
+10-20-2012 -- 15:17
+USER  : standby
+10-20-2012 -- 15:18
+10-20-2012 -- 17:01
+USER  : movement who do we go through the gatt, computer
+JARVIS: yes sir
+USER  : computer
+JARVIS: yes sir
+USER  : user user
+USER  : set timer for 44 minutes
+JARVIS: timer set
+USER  : to hide
+USER  : standby
+10-20-2012 -- 17:02
+ERROR : Could not set hotkey.
+10-22-2012 -- 11:56
+USER  : for computer
+JARVIS: yes sir
+10-22-2012 -- 11:57
+USER  : user
+USER  : with global
+USER  : the global
+USER  : global search
+USER  : the local
+USER  : and global
+USER  : goal
+USER  : google
+JARVIS: opening google
+USER  : and an
+USER  : open google
+JARVIS: opening google
+USER  : google search yo yo yo 1843
+JARVIS: opening google
+10-22-2012 -- 11:58
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+10-22-2012 -- 11:58
+Time Spent: 75 
+Commands  : 12 
+Responses : 4 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+ERROR : Could not set hotkey.
+10-22-2012 -- 11:59
+10-22-2012 -- 12:00
+JARVIS: it is 12 o'clock PM sir
+USER  : for computer
+JARVIS: yes sir
+USER  : user
+USER  : go to google
+JARVIS: opening google
+USER  : google search yo yo yo 1843
+JARVIS: opening google
+USER  : search yo yo yo 1843
+JARVIS: yes sir
+USER  : user
+USER  : to
+10-22-2012 -- 12:01
+USER  : a
+10-22-2012 -- 12:02
+USER  : n.
+10-22-2012 -- 12:03
+USER  : with
+10-22-2012 -- 12:04
+JARVIS: your computer has been inactive for 10 minutes, sir
+USER  : computer to
+JARVIS: yes sir
+USER  : moving to use for user
+10-22-2012 -- 12:12
+JARVIS: your computer has been on for 60 hours, sir
+USER  : you who've dollars
+USER  : to
+10-22-2012 -- 12:16
+JARVIS: your computer has been inactive for 10 minutes, sir
+USER  : who can move to
+USER  : computer
+JARVIS: yes sir
+USER  : user who live
+JARVIS: opening windows live
+USER  : who
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : recompile
+JARVIS: recompiling
+ERROR : Could not set hotkey.
+10-22-2012 -- 12:24
+USER  : we'll get to
+USER  : go to google
+JARVIS: opening google
+JARVIS: searching
+USER  : move
+10-22-2012 -- 12:25
+USER  : to
+10-22-2012 -- 12:26
+USER  : srbhig google
+JARVIS: opening google
+JARVIS: searching
+USER  : move to the
+USER  : blah blah whsde google
+JARVIS: opening google
+JARVIS: searching
+USER  : move to the
+10-22-2012 -- 12:27
+USER  : computer
+JARVIS: yes sir
+USER  : user read,
+JARVIS: 
+            '$include:'..\include\commands\secant.bas'
+USER  : two-to-to-22
+JARVIS: -20
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : recompile
+JARVIS: recompiling
+ERROR : Could not set hotkey.
+10-22-2012 -- 12:30
+USER  : to hear
+USER  : computer
+JARVIS: yes sir
+USER  : can to
+USER  : hi
+JARVIS: yes sir
+USER  : user
+USER  : bhsaiur google
+JARVIS: opening google
+USER  : to
+10-22-2012 -- 12:31
+USER  : death
+USER  : google search yo yo yo 1843
+JARVIS: opening google
+USER  : of
+USER  : computer
+JARVIS: yes sir
+USER  : user recompile
+10-22-2012 -- 12:32
+USER  : computer
+JARVIS: yes sir
+USER  : user recompile
+USER  : recompile
+JARVIS: recompiling
+ERROR : Could not set hotkey.
+10-22-2012 -- 12:34
+USER  : for
+10-22-2012 -- 12:35
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : bfdklhifdb google
+USER  : bfdklhifdb google
+USER  : sgsd google
+10-22-2012 -- 12:36
+USER  : recompile
+JARVIS: recompiling
+ERROR : Could not set hotkey.
+10-22-2012 -- 12:38
+USER  : for
+USER  : bogfbidfoihds google
+JARVIS: opening google
+10-22-2012 -- 12:39
+USER  : google search yo yo yo 1843
+JARVIS: searching yo yo yo 1843
+USER  : to move to
+USER  : google search yo yo yo 1843 to the 6 to the 9 representing the abq
+JARVIS: searching yo yo yo 1843 to the 6 to the 9 representing the abq
+USER  : two to two
+USER  : to
+10-22-2012 -- 12:40
+USER  : google yo yo yo
+JARVIS: searching yo yo yo
+USER  : two
+USER  : search yo sup
+JARVIS: searching yo sup
+USER  : to two
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+10-22-2012 -- 12:40
+Time Spent: 125 
+Commands  : 14 
+Responses : 6 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+10-31-2012 -- 17:31
+ERROR : Could not set hotkey.
+10-31-2012 -- 17:33
+USER  : movement for
+USER  : standby
+10-31-2012 -- 17:34
+ERROR : Could not set hotkey.
+11-03-2012 -- 12:11
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+11-03-2012 -- 12:11
+Time Spent: 4 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+ERROR : Could not set hotkey.
+11-03-2012 -- 12:11
+USER  : computer
+JARVIS: yes sir
+USER  : in my
+USER  : high
+11-03-2012 -- 12:12
+USER  : i'd
+USER  : hide
+USER  : standby
+JARVIS: yes sir
+USER  : screened off
+USER  : monitor off
+JARVIS: monitor off
+USER  : computer
+JARVIS: yes sir
+USER  : hide system clock
+JARVIS: hiding system clock
+USER  : to
+11-03-2012 -- 12:13
+USER  : the
+11-03-2012 -- 12:15
+USER  : computer
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+11-03-2012 -- 12:15
+Time Spent: 199 
+Commands  : 14 
+Responses : 6 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+ERROR : Could not set hotkey.
+11-03-2012 -- 12:15
+USER  : computer
+JARVIS: yes sir
+USER  : monitor off
+JARVIS: monitor off
+USER  : computer
+JARVIS: yes sir
+USER  : and hide system clock
+JARVIS: hiding system clock
+USER  : and
+USER  : computer
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+11-03-2012 -- 12:15
+Time Spent: 34 
+Commands  : 7 
+Responses : 5 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+ERROR : Could not set hotkey.
+11-03-2012 -- 12:16
+USER  : computer
+JARVIS: yes sir
+USER  : and hide system clock
+JARVIS: hiding system clock
+USER  : show system clock
+JARVIS: showing system clock
+USER  : monitor off
+JARVIS: monitor off
+USER  : monitor on
+JARVIS: monitor on
+USER  : computer
+JARVIS: yes sir
+USER  : to hide
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : standby
+11-03-2012 -- 12:17
+JARVIS: yes sir
+USER  : user monitor off
+JARVIS: monitor off
+USER  : stand by
+11-03-2012 -- 12:18
+JARVIS: yes sir
+USER  : user
+USER  : alerts off
+JARVIS: turning off alerts
+USER  : and
+USER  : monitor off
+JARVIS: monitor off
+USER  : and
+11-03-2012 -- 12:31
+USER  : moral
+USER  : computer
+JARVIS: yes sir
+USER  : user monitor off
+JARVIS: monitor off
+USER  : and standby
+11-03-2012 -- 12:32
+JARVIS: yes sir
+USER  : user monitor on
+JARVIS: monitor on
+11-03-2012 -- 14:46
+USER  : it for
+USER  : in the style
+USER  : and
+USER  : the for why her for dead in her for
+USER  : for
+USER  : in the
+USER  : new
+11-03-2012 -- 14:47
+USER  : homes, the
+USER  : figure was
+USER  : computer
+JARVIS: yes sir
+USER  : user set timer for five seconds
+JARVIS: timer set
+USER  : computer
+JARVIS: yes sir
+USER  : turned pollard's on
+USER  : a lark san
+USER  : jerome
+USER  : computer
+JARVIS: yes sir
+USER  : show
+USER  : alerts on
+JARVIS: turning on alerts
+USER  : you
+11-03-2012 -- 14:48
+USER  : set in
+USER  : set timer for five seconds
+JARVIS: timer set
+JARVIS: it has been 5 seconds sir
+USER  : for the work from
+USER  : oven hide
+USER  : standby
+11-03-2012 -- 14:49
+JARVIS: yes sir
+USER  : a
+USER  : computer
+JARVIS: yes sir
+USER  : show
+USER  : log
+JARVIS: opening log
+USER  : the
+USER  : movement isn't in the new
+USER  : open my documents my documents
+JARVIS: opening my documents
+USER  : and uses
+USER  : a
+USER  : user is for home
+USER  : a move for a a
+USER  : a
+11-03-2012 -- 15:41
+USER  : his home
+USER  : movies.
+USER  : the
+USER  : new his
+USER  : idea he
+USER  : said he is the
+11-03-2012 -- 15:42
+USER  : home viewers to.
+USER  : it is a computer
+JARVIS: yes sir
+USER  : a new, says that he said
+USER  : on
+USER  : nt
+USER  : a
+USER  : move that will
+USER  : they
+USER  : task manager
+JARVIS: launching task manager
+USER  : via
+USER  : a
+USER  : new
+USER  : it is the service in some, but
+USER  : it's it's it's speak for the
+USER  : low
+USER  : him
+11-03-2012 -- 15:43
+USER  : close
+JARVIS: closing foreground window
+JARVIS: closing foreground window
+USER  : hide
+USER  : stand by
+JARVIS: yes sir
+USER  : monitor off
+JARVIS: monitor off
+USER  : standby
+11-03-2012 -- 15:44
+JARVIS: yes sir
+USER  : church and yeutter off
+11-03-2012 -- 16:37
+USER  : shut down
+JARVIS: are you sure you want to shut down your computer
+USER  : yes
+JARVIS: shutting down computer
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+11-03-2012 -- 16:37
+Time Spent: 15643 
+Commands  : 88 
+Responses : 36 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+ERROR : Could not set hotkey.
+11-17-2012 -- 23:23
+11-17-2012 -- 23:24
+USER  : computer
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+ERROR : Could not set hotkey.
+11-18-2012 -- 14:58
+USER  : and
+USER  : computer
+JARVIS: yes sir
+USER  : minimize
+JARVIS: minimizing foreground window
+USER  : computer
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+11-18-2012 -- 14:58
+Time Spent: 25 
+Commands  : 5 
+Responses : 3 
+Errors    : 0 
+9:20
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+jarvis.ini
+
+
+
+
+
+
+..\packs\maplestory\include\customcmd.bas
+'$include:'..\packs\maplestory\source\maplestory_pack.bas'
+
+
+77540
+
+ZGorlock@gmail.com
+
+11-19-2012
+16:35:03

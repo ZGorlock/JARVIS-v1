@@ -1,0 +1,2196 @@
+--------------------------------------------------------------------------------------------------------------------------------
+JARVIS: the log has been cleared
+USER  : for
+USER  : for for
+USER  : log close
+JARVIS: closing the log
+USER  : for
+05-27-2012 -- 17:56
+USER  : the
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-27-2012 -- 17:56
+Time Spent: 100 
+Commands  : 12 
+Responses : 4 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-28-2012 -- 18:28
+USER  : but for
+USER  : for
+USER  : computer
+JARVIS: yes sir
+USER  : for terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-28-2012 -- 18:28
+Time Spent: 23 
+Commands  : 4 
+Responses : 1 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-28-2012 -- 18:32
+USER  : and for
+05-28-2012 -- 18:33
+USER  : computer
+JARVIS: yes sir
+USER  : new command
+JARVIS: Enter the the name of the new command into the box, make sure there are no spaces, when you are done press Enter, if the box is empty the query will be discarded.
+JARVIS: It looks like there is already a command file with this name, are you sure you want to overwrite the old file, yes or no, if you submit a blank query you will be asked again.
+JARVIS: It looks like there is already a command file with this name, are you sure you want to overwrite the old file, yes or no, if you submit a blank query you will be asked again.
+USER  : and
+USER  : for moving and and for for for
+USER  : for for for
+USER  : for for
+05-28-2012 -- 18:34
+USER  : computer
+JARVIS: yes sir
+USER  : for
+USER  : computer
+JARVIS: yes sir
+USER  : this for
+05-28-2012 -- 18:36
+USER  : movement for
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+Error: 76 : 5429 
+05-28-2012 -- 18:37
+05-28-2012 -- 18:50
+USER  : movement for
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+05-28-2012 -- 18:52
+USER  : movement for
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+JARVIS: It looks like this command could conflict with existing commands, are you sure you want to add it, yes or no, if you submit a blank query you will be asked again.
+05-28-2012 -- 18:53
+JARVIS: Would you like to add another command, yes or no, if you submit a blank query you will be asked again.
+05-28-2012 -- 19:16
+USER  : movement for
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+Error: 53 : 1156 
+05-28-2012 -- 19:17
+JARVIS: yes sir
+USER  : death for
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+05-28-2012 -- 19:18
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+Error: 53 : 1156 
+JARVIS: yes sir
+USER  : if
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-28-2012 -- 19:18
+Time Spent: 27 
+Commands  : 3 
+Responses : 2 
+Errors    : 1 
+53:1156
+--------------------------------------------------------------------------------------------------------------------------------
+05-28-2012 -- 19:19
+USER  : if
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+05-28-2012 -- 19:20
+JARVIS: Would you like to add another command, yes or no, if you submit a blank query you will be asked again.
+05-28-2012 -- 20:59
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+JARVIS: Would you like to add another command, yes or no, if you submit a blank query you will be asked again.
+05-28-2012 -- 21:02
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+05-28-2012 -- 21:03
+JARVIS: Would you like to add another command, yes or no, if you submit a blank query you will be asked again.
+05-28-2012 -- 21:15
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+JARVIS: It looks like this command could conflict with existing commands, are you sure you want to add it, yes or no, if you submit a blank query you will be asked again.
+JARVIS: Would you like to add another command, yes or no, if you submit a blank query you will be asked again.
+05-29-2012 -- 17:56
+USER  : for
+USER  : standby
+05-29-2012 -- 17:57
+JARVIS: yes sir
+USER  : computer
+JARVIS: yes sir
+USER  : for
+USER  : hide
+USER  : screen shot
+JARVIS: screen shot
+USER  : open screen shot folder
+JARVIS: opening screen shot folder
+USER  : close
+JARVIS: closing foreground window
+USER  : minimize
+JARVIS: minimizing foreground window
+USER  : show
+USER  : at new command
+JARVIS: Enter the the name of the new command into the box, make sure there are no spaces, when you are done press Enter, if the box is empty the query will be discarded.
+05-29-2012 -- 17:58
+USER  : computer
+JARVIS: yes sir
+USER  : new command
+JARVIS: Enter the the name of the new command into the box, make sure there are no spaces, when you are done press Enter, if the box is empty the query will be discarded.
+JARVIS: It looks like there is already a command file with this name, are you sure you want to overwrite the old file, yes or no, if you submit a blank query you will be asked again.
+USER  : computer
+JARVIS: yes sir
+USER  : standby
+JARVIS: yes sir
+USER  : hide
+05-29-2012 -- 17:59
+USER  : standby
+05-29-2012 -- 18:00
+JARVIS: yes sir
+USER  : begin dictation
+JARVIS: dictation started
+USER  : hello tyler house that server going
+USER  : send
+USER  : standing station
+USER  : and dictation
+USER  : and
+USER  : and dictation
+05-29-2012 -- 18:09
+USER  : computer
+USER  : and dictation
+USER  : and
+USER  : and
+USER  : to command prompt
+05-29-2012 -- 19:34
+USER  : to
+USER  : computer
+JARVIS: yes sir
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+JARVIS: Would you like to add another command, yes or no, if you submit a blank query you will be asked again.
+05-29-2012 -- 19:35
+USER  : hat
+JARVIS: do you like hats?
+USER  : no
+USER  : and
+USER  : remove command
+JARVIS: Enter the the name of the command file to delete into the box, when you are done press Enter, if the box is empty the query will be discarded.
+JARVIS: Would you like to remove another command, yes or no, if you submit a blank query you will be asked again.
+05-29-2012 -- 19:40
+USER  : the
+USER  : computer
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-29-2012 -- 19:41
+Time Spent: 15 
+Commands  : 3 
+Responses : 1 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-29-2012 -- 19:44
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+JARVIS: Would you like to add another command, yes or no, if you submit a blank query you will be asked again.
+05-29-2012 -- 19:45
+USER  : hats
+USER  : and
+USER  : hat
+JARVIS: do you like hats?
+USER  : computer
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+05-29-2012 -- 19:47
+USER  : hat
+JARVIS: do you like hats?
+USER  : 1010
+USER  : to
+USER  : compute
+USER  : r
+USER  : computer
+JARVIS: yes sir
+USER  : remove command
+JARVIS: Enter the the name of the command file to delete into the box, when you are done press Enter, if the box is empty the query will be discarded.
+JARVIS: Would you like to remove another command, yes or no, if you submit a blank query you will be asked again.
+05-29-2012 -- 19:50
+USER  : for
+USER  : computer
+JARVIS: yes sir
+USER  : for
+05-29-2012 -- 19:51
+USER  : new command
+JARVIS: Enter the the name of the new command into the box, make sure there are no spaces, when you are done press Enter, if the box is empty the query will be discarded.
+JARVIS: It looks like there is already a command file with this name, are you sure you want to overwrite the old file, yes or no, if you submit a blank query you will be asked again.
+USER  : it
+USER  : course this
+USER  : type that 70 like the base but irony have the new command at a preset
+JARVIS: Enter the the name of the new command into the box, make sure there are no spaces, when you are done press Enter, if the box is empty the query will be discarded.
+USER  : tent com future for
+USER  : computer
+JARVIS: yes sir
+USER  : user standby
+05-29-2012 -- 19:52
+JARVIS: yes sir
+USER  : user
+USER  : at command
+USER  : computer
+JARVIS: yes sir
+USER  : user bad command
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+05-29-2012 -- 19:53
+JARVIS: Would you like to add another command, yes or no, if you submit a blank query you will be asked again.
+Error: 9 : 5509 
+05-29-2012 -- 19:55
+USER  : for computer
+JARVIS: yes sir
+USER  : user hat
+JARVIS: do you like hats?
+USER  : and so bad that command from the thing
+USER  : will
+USER  : hear what
+USER  : , for computer
+JARVIS: yes sir
+USER  : it hide
+USER  : standby
+05-29-2012 -- 19:56
+JARVIS: yes sir
+USER  : show
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-29-2012 -- 20:41
+Time Spent: 2812 
+Commands  : 10 
+Responses : 4 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-29-2012 -- 20:42
+USER  : and to
+USER  : computer
+JARVIS: yes sir
+USER  : to
+USER  : learn of command
+USER  : remove command
+JARVIS: Enter the the name of the command file to delete into the box, when you are done press Enter, if the box is empty the query will be discarded.
+05-29-2012 -- 20:43
+JARVIS: Would you like to remove another command, yes or no, if you submit a blank query you will be asked again.
+05-29-2012 -- 20:45
+USER  : to recompile
+JARVIS: recompiling
+05-29-2012 -- 20:46
+USER  : add command
+JARVIS: Enter the the name of the command to add into the box, when you are done press Enter, if the box is empty the query will be discarded.
+05-29-2012 -- 20:47
+JARVIS: Would you like to add another command, yes or no, if you submit a blank query you will be asked again.
+05-29-2012 -- 20:47
+USER  : remove command
+JARVIS: Enter the the name of the command file to delete into the box, when you are done press Enter, if the box is empty the query will be discarded.
+JARVIS: Would you like to remove another command, yes or no, if you submit a blank query you will be asked again.
+05-29-2012 -- 21:26
+USER  : recompile
+JARVIS: recompiling
+05-29-2012 -- 21:27
+JARVIS: your computer has been on for 27 hours sir
+05-29-2012 -- 21:28
+USER  : to ten
+USER  : to
+05-29-2012 -- 21:29
+USER  : five
+05-29-2012 -- 21:31
+USER  : to ten
+USER  : with
+USER  : ten
+USER  : to
+USER  : death
+05-29-2012 -- 21:32
+USER  : five
+USER  : to
+05-29-2012 -- 21:33
+USER  : ten
+05-29-2012 -- 21:34
+USER  : to ten
+USER  : recompile
+JARVIS: recompiling
+05-29-2012 -- 21:35
+USER  : ten
+05-29-2012 -- 21:36
+USER  : to
+05-29-2012 -- 21:37
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-29-2012 -- 21:37
+Time Spent: 160 
+Commands  : 3 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-29-2012 -- 21:39
+USER  : a
+USER  : recompile
+JARVIS: recompiling
+05-29-2012 -- 21:40
+USER  : version
+JARVIS: i am currently version 0.01
+USER  : version
+JARVIS: i am currently version 0.01
+USER  : ten
+05-29-2012 -- 21:41
+USER  : reposition bottom right
+JARVIS: repositioning
+USER  : reposition
+JARVIS: repositioning
+USER  : operating system
+JARVIS: your operating system is Windows 32 Bit
+USER  : speed
+JARVIS: current speed is 32loops per second
+USER  : speed
+JARVIS: current speed is 32loops per second
+USER  : computer
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-29-2012 -- 21:41
+Time Spent: 94 
+Commands  : 10 
+Responses : 8 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 18:51
+USER  : movement for
+05-31-2012 -- 18:52
+USER  : recompile
+JARVIS: recompiling
+05-31-2012 -- 18:53
+USER  : movement for
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+Error: 9 : 5814 
+05-31-2012 -- 19:10
+USER  : movement for
+USER  : computer
+JARVIS: yes sir
+USER  : user
+05-31-2012 -- 19:11
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 19:11
+Time Spent: 28 
+Commands  : 4 
+Responses : 1 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 19:12
+USER  : movement for
+USER  : the
+05-31-2012 -- 19:13
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : to
+USER  : the
+USER  : five to ten
+USER  : to
+05-31-2012 -- 19:14
+USER  : a
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 19:15
+Time Spent: 162 
+Commands  : 10 
+Responses : 1 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 19:21
+USER  : movement for
+USER  : recompile
+JARVIS: recompiling
+05-31-2012 -- 19:23
+USER  : movement for
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 19:23
+Time Spent: 13 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 19:24
+USER  : movement for
+USER  : computer
+JARVIS: yes sir
+USER  : for
+05-31-2012 -- 19:25
+USER  : computer
+JARVIS: yes sir
+USER  : move for
+USER  : ten
+05-31-2012 -- 19:26
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 19:26
+Time Spent: 142 
+Commands  : 7 
+Responses : 2 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 19:29
+USER  : the movement for
+USER  : le
+USER  : recompile
+JARVIS: recompiling
+05-31-2012 -- 19:37
+USER  : to movement for
+USER  : to
+05-31-2012 -- 19:38
+USER  : n.
+USER  : in
+05-31-2012 -- 19:39
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 19:39
+Time Spent: 112 
+Commands  : 5 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 19:39
+USER  : movement for
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 19:39
+Time Spent: 6 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 19:40
+USER  : movement for
+USER  : recompile
+JARVIS: recompiling
+05-31-2012 -- 19:41
+USER  : movement for
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 19:41
+Time Spent: 5 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 19:43
+USER  : movement for
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+Error: 9 : 5816 
+05-31-2012 -- 19:43
+USER  : movement for
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+Error: 9 : 5816 
+05-31-2012 -- 19:51
+USER  : movement for
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 19:51
+Time Spent: 13 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 19:59
+USER  : movement for
+USER  : ten
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 19:59
+Time Spent: 10 
+Commands  : 3 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 21:11
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 21:11
+Time Spent: 15 
+Commands  : 1 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 21:11
+USER  : movement for
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 21:11
+Time Spent: 8 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 21:12
+USER  : recompile
+JARVIS: recompiling
+Error: 9 : 5818 
+05-31-2012 -- 21:15
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 21:15
+Time Spent: 13 
+Commands  : 1 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 21:19
+USER  : recompile
+JARVIS: recompiling
+Error: 9 : 5818 
+05-31-2012 -- 21:24
+USER  : movement for
+USER  : computer
+JARVIS: yes sir
+USER  : for
+05-31-2012 -- 21:25
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 21:25
+Time Spent: 18 
+Commands  : 4 
+Responses : 1 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 21:28
+USER  : who
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 21:28
+Time Spent: 10 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 21:41
+USER  : day for
+JARVIS: today it is Thursday
+05-31-2012 -- 21:42
+USER  : today
+JARVIS: today it is Thursday
+USER  : to this day
+JARVIS: today it is Thursday
+USER  : this move
+USER  : recompile
+JARVIS: recompiling
+Error: 9 : 5822 
+05-31-2012 -- 21:44
+USER  : and
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 21:44
+Time Spent: 12 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 21:46
+USER  : and
+USER  : compile
+JARVIS: recompiling
+05-31-2012 -- 21:48
+USER  : and
+05-31-2012 -- 21:49
+USER  : recompile
+JARVIS: recompiling
+05-31-2012 -- 21:50
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+Error: 9 : 5822 
+05-31-2012 -- 21:50
+USER  : for
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 21:50
+Time Spent: 7 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 21:53
+USER  : recompile
+JARVIS: recompiling
+Error: 9 : 5822 
+05-31-2012 -- 21:55
+USER  : movement for
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 21:55
+Time Spent: 18 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+05-31-2012 -- 23:56
+USER  : movement for
+USER  : sleep
+JARVIS: putting computer to sleep
+USER  : and moving
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+05-31-2012 -- 23:56
+Time Spent: 18 
+Commands  : 3 
+Responses : 1 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-01-2012 -- 10:41
+USER  : movement for hide
+USER  : screen shot
+JARVIS: screen shot
+USER  : for
+USER  : standby
+06-01-2012 -- 10:42
+JARVIS: yes sir
+USER  : user alarms
+JARVIS: these are your set alarms, move using the arrow keys, press delete to remove an alarm and insert to add a new one, press escape to exit, I will be suspended until your close the alarm program
+06-01-2012 -- 12:46
+USER  : movement for
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : polar clock
+JARVIS: launching polar clock
+USER  : moving for
+06-01-2012 -- 12:47
+USER  : the
+USER  : close
+JARVIS: closing foreground window
+USER  : for for
+USER  : computer
+JARVIS: yes sir
+USER  : user alarms
+JARVIS: these are your set alarms, move using the arrow keys, press delete to remove an alarm and insert to add a new one, press escape to exit, I will be suspended until your close the alarm program
+06-01-2012 -- 13:06
+USER  : movement for
+USER  : recompile
+JARVIS: recompiling
+06-01-2012 -- 13:07
+USER  : movement for
+USER  : computer
+JARVIS: yes sir
+USER  : user starts stopwatch
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : computer
+JARVIS: yes sir
+06-01-2012 -- 13:08
+USER  : user start stopwatch
+USER  : computer
+JARVIS: yes sir
+USER  : user starts stopwatch
+USER  : start stopwatch
+USER  : and
+USER  : to mail in
+USER  : high
+06-01-2012 -- 13:09
+USER  : -
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : stopwatch start
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-01-2012 -- 13:09
+Time Spent: 138 
+Commands  : 18 
+Responses : 5 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-01-2012 -- 13:10
+USER  : and
+06-01-2012 -- 13:11
+USER  : start stopwatch
+USER  : moving to a new
+06-01-2012 -- 13:12
+USER  : standby
+06-01-2012 -- 13:13
+JARVIS: yes sir
+USER  : move for
+06-01-2012 -- 13:14
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-01-2012 -- 13:14
+Time Spent: 192 
+Commands  : 6 
+Responses : 1 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-01-2012 -- 13:16
+USER  : movement for
+USER  : recompile
+JARVIS: recompiling
+06-01-2012 -- 13:17
+USER  : for computer
+JARVIS: yes sir
+USER  : for
+USER  : starts stopwatch
+USER  : start stopwatch
+JARVIS: starting stopwatch
+USER  : computer
+JARVIS: yes sir
+JARVIS: yes sir
+USER  : for stop stopwatch
+JARVIS: stopwatch ran for 30.66016seconds
+06-01-2012 -- 13:18
+USER  : for
+USER  : computer
+JARVIS: yes sir
+USER  : recall stopwatch
+JARVIS: last stopwatch ran for 30.66016seconds
+USER  : for
+USER  : computer
+JARVIS: yes sir
+USER  : starts stopwatch
+USER  : start stopwatch
+JARVIS: starting stopwatch
+USER  : version
+JARVIS: i am currently version 0.01
+06-01-2012 -- 13:19
+USER  : 25+91
+USER  : 25 -91
+USER  : 25 at 91
+USER  : 25 pad 91
+USER  : computer
+JARVIS: yes sir
+USER  : recall stopwatch
+JARVIS: last stopwatch ran for 30.66016seconds
+USER  : stop stopwatch
+JARVIS: stopwatch ran for 92.14453seconds
+06-01-2012 -- 13:20
+USER  : for
+USER  : what
+06-01-2012 -- 13:21
+06-01-2012 -- 13:30
+USER  : a movement for starts stopwatch
+USER  : start stopwatch
+JARVIS: starting stopwatch
+USER  : stop stopwatch
+JARVIS: stopwatch ran for 5.769531seconds
+USER  : start stopwatch
+JARVIS: starting stopwatch
+USER  : recall stopwatch
+JARVIS: last stopwatch ran for 5.769531seconds
+USER  : computer
+JARVIS: yes sir
+06-01-2012 -- 13:31
+USER  : for stopping stopwatch
+USER  : stop stopwatch
+JARVIS: stopwatch ran for 19.28516seconds
+USER  : recall stopwatch
+JARVIS: last stopwatch ran for 19.28516seconds
+USER  : computer
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-01-2012 -- 13:31
+Time Spent: 69 
+Commands  : 11 
+Responses : 8 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-01-2012 -- 13:31
+USER  : and computer
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+06-01-2012 -- 13:33
+USER  : and for computer
+JARVIS: yes sir
+USER  : user starts stopwatch
+USER  : start stopwatch
+JARVIS: starting stopwatch
+USER  : computer
+JARVIS: yes sir
+USER  : user standby
+06-01-2012 -- 13:34
+JARVIS: yes sir
+USER  : user
+USER  : stop stopwatch
+JARVIS: stopwatch ran for 883 seconds
+USER  : computer
+JARVIS: yes sir
+USER  : user recall stopwatch
+JARVIS: last stopwatch ran for 883 seconds
+USER  : for
+USER  : thank you
+JARVIS: you are welcome sir
+USER  : and for
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : hide
+USER  : standby
+06-01-2012 -- 13:49
+JARVIS: yes sir
+USER  : user
+USER  : terminating
+USER  : ,
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-01-2012 -- 14:00
+Time Spent: 1619 
+Commands  : 20 
+Responses : 10 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-01-2012 -- 15:09
+USER  : for
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : recompile
+JARVIS: recompiling
+06-01-2012 -- 15:21
+USER  : movement for
+USER  : set timer for 30 seconds
+JARVIS: timer set
+JARVIS: the system timer is 55299.23
+USER  : time resume tuesday and i move into 5,200 movement went into
+JARVIS: it is currently 3:21 PM
+USER  : it, to 21 to
+06-01-2012 -- 15:22
+JARVIS: it has been 30 seconds, sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+USER  : new they lose her new an area for two
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+USER  : young men for new users
+JARVIS: it has been , sir
+JARVIS: it has been , sir
+06-01-2012 -- 15:25
+USER  : and
+USER  : for
+USER  : recompile
+JARVIS: recompiling
+06-01-2012 -- 15:26
+USER  : movement for
+USER  : set timer for 30 seconds
+JARVIS: timer set
+USER  : move
+06-01-2012 -- 15:27
+USER  : to
+USER  : timer set for 10 seconds
+JARVIS: timer set
+USER  : move
+USER  : timer set for 50 seconds
+JARVIS: timer set
+USER  : computer
+JARVIS: yes sir
+JARVIS: it has been 10 seconds, sir
+USER  : to who've been for
+JARVIS: it has been 30 seconds, sir
+USER  : this for
+USER  : the
+06-01-2012 -- 15:28
+JARVIS: it has been 50 seconds, sir
+USER  : this
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : timer
+JARVIS: the system timer is 55695.66
+USER  : who move to move to hit for
+USER  : ten
+USER  : standby
+06-01-2012 -- 15:29
+JARVIS: yes sir
+USER  : user clothes
+USER  : computer
+JARVIS: yes sir
+USER  : user to minimize
+JARVIS: minimizing foreground window
+USER  : and recompile
+JARVIS: recompiling
+06-01-2012 -- 15:31
+USER  : movement for
+06-01-2012 -- 15:32
+USER  : start stopwatch
+JARVIS: starting stopwatch
+USER  : set time for ten seconds
+JARVIS: it is currently 3:32 PM
+USER  : timer 25 seconds
+JARVIS: timer set
+USER  : for
+USER  : timer two minutes
+JARVIS: it has been 25 seconds, sir
+USER  : and stop stopwatch
+JARVIS: stopwatch ran for 43.01953 seconds
+USER  : for
+USER  : recall stopwatch
+JARVIS: last stopwatch ran for 43.01953 seconds
+06-01-2012 -- 15:33
+USER  : for
+USER  : set timer for 31 seconds
+JARVIS: timer set
+USER  : for
+USER  : standby
+06-01-2012 -- 15:34
+JARVIS: yes sir
+USER  : to log
+JARVIS: opening log
+USER  : in
+USER  : to log
+JARVIS: opening log
+USER  : moving
+USER  : to
+06-01-2012 -- 15:35
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-01-2012 -- 15:35
+Time Spent: 248 
+Commands  : 21 
+Responses : 11 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-01-2012 -- 22:23
+USER  : and
+USER  : computer
+JARVIS: yes sir
+USER  : hide
+06-01-2012 -- 22:25
+USER  : computer
+JARVIS: yes sir
+USER  : show
+06-01-2012 -- 22:26
+USER  : that
+06-01-2012 -- 22:27
+USER  : computer
+JARVIS: yes sir
+USER  : to hide
+USER  : computer
+JARVIS: yes sir
+USER  : show
+USER  : computer
+JARVIS: yes sir
+USER  : minimize
+JARVIS: minimizing foreground window
+USER  : task manager
+JARVIS: launching task manager
+06-01-2012 -- 22:28
+USER  : computer
+JARVIS: yes sir
+USER  : hide
+USER  : close
+JARVIS: closing foreground window
+USER  : computer
+JARVIS: yes sir
+USER  : begin dictation
+JARVIS: dictation started
+USER  : hello
+USER  : scratch that
+06-01-2012 -- 22:29
+USER  : delete that
+USER  : computer
+USER  : computer
+USER  : delete that
+USER  : backspace
+USER  : back
+USER  : backpack backpack
+USER  : close
+USER  : stop dictation
+JARVIS: dictation stopped
+USER  : close
+JARVIS: closing foreground window
+06-01-2012 -- 22:30
+USER  : minimize
+JARVIS: minimizing foreground window
+USER  : close
+JARVIS: closing foreground window
+06-01-2012 -- 22:31
+USER  : to
+USER  : computer
+JARVIS: yes sir
+USER  : internet
+JARVIS: launching browser
+USER  : won't you
+06-01-2012 -- 22:32
+USER  : he
+06-01-2012 -- 22:34
+USER  : day
+JARVIS: today it is Friday
+USER  : to move
+USER  : with computer
+JARVIS: yes sir
+USER  : user standby
+06-01-2012 -- 22:35
+06-01-2012 -- 23:32
+USER  : in
+USER  : recompile
+JARVIS: recompiling
+06-01-2012 -- 23:33
+USER  : and for
+06-01-2012 -- 23:49
+USER  : for
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 10:51
+USER  : computer
+JARVIS: yes sir
+USER  : 28 plus 21
+JARVIS:  49
+USER  : 56 plus 91
+JARVIS:  147
+06-02-2012 -- 10:52
+USER  : 419 times one
+USER  : quarter nineteen times fourteen
+USER  : 419 times 21
+JARVIS:  8799
+06-02-2012 -- 10:53
+USER  : computer
+JARVIS: yes sir
+USER  : border and nineteen times 21
+06-02-2012 -- 10:54
+USER  : 419 times 21
+JARVIS:  8799
+USER  : computer
+JARVIS: yes sir
+06-02-2012 -- 10:55
+USER  : the recompile
+JARVIS: recompiling
+06-02-2012 -- 10:56
+USER  : computer
+JARVIS: yes sir
+USER  : the
+USER  : 419 times 21
+JARVIS:  8799
+USER  : 433,114 plus 86
+JARVIS:  519
+06-02-2012 -- 10:58
+USER  : for
+USER  : a for
+06-02-2012 -- 11:05
+USER  : and
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 11:07
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 11:09
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 11:09
+Time Spent: 7 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 11:09
+USER  : and
+06-02-2012 -- 11:10
+USER  : a
+06-02-2012 -- 11:12
+USER  : who
+USER  : day
+JARVIS: today it is Saturday
+JARVIS: today it is Saturday
+USER  : five
+USER  : to
+06-02-2012 -- 11:14
+USER  : do
+06-02-2012 -- 11:15
+USER  : n.
+USER  : de
+06-02-2012 -- 11:16
+USER  : death
+USER  : day
+JARVIS: today it is Saturday
+JARVIS: today it is Saturday
+JARVIS: today it is Saturday
+USER  : who
+USER  : day
+JARVIS: today it is Saturday
+USER  : with
+06-02-2012 -- 11:17
+USER  : the
+06-02-2012 -- 11:18
+USER  : day
+JARVIS: today it is Saturday
+JARVIS: today it is Saturday
+JARVIS: today it is Saturday
+JARVIS: today it is Saturday
+JARVIS: today it is Saturday
+JARVIS: today it is Saturday
+USER  : today
+JARVIS: today it is Saturday
+USER  : who
+06-02-2012 -- 11:19
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 11:19
+Time Spent: 600 
+Commands  : 18 
+Responses : 13 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 11:19
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 11:22
+USER  : a day
+JARVIS: today it is Saturday
+06-02-2012 -- 11:23
+USER  : day
+JARVIS: today it is Saturday
+USER  : who
+USER  : day
+JARVIS: today it is Saturday
+06-02-2012 -- 11:24
+USER  : five
+USER  : death
+06-02-2012 -- 11:25
+USER  : with
+USER  : death
+06-02-2012 -- 11:27
+USER  : a
+06-02-2012 -- 11:31
+USER  : a a
+06-02-2012 -- 11:32
+USER  : to
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 11:33
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 11:33
+Time Spent: 2 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 11:33
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 11:33
+Time Spent: 4 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 11:34
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 11:36
+USER  : new
+06-02-2012 -- 11:38
+USER  : who who who
+USER  : who
+06-02-2012 -- 11:39
+JARVIS: your computer has been on for 36 hours, sir
+06-02-2012 -- 11:43
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 11:50
+USER  : who
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 11:50
+Time Spent: 11 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 11:50
+USER  : yeah
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 11:50
+Time Spent: 29 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 11:50
+USER  : who
+06-02-2012 -- 11:51
+USER  : a
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 11:51
+Time Spent: 17 
+Commands  : 3 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 11:51
+USER  : yeah
+USER  : n. n.
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 11:51
+Time Spent: 11 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 11:52
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 11:53
+06-02-2012 -- 11:55
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 11:57
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 11:57
+Time Spent: 5 
+Commands  : 1 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 11:57
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 11:57
+Time Spent: 11 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 12:03
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 12:03
+Time Spent: 6 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 12:03
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 12:03
+Time Spent: 2 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 12:03
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 12:07
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 12:07
+Time Spent: 6 
+Commands  : 1 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 12:07
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 12:07
+Time Spent: 4 
+Commands  : 1 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 12:08
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 12:08
+Time Spent: 3 
+Commands  : 1 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 12:08
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 12:08
+Time Spent: 7 
+Commands  : 1 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 12:08
+USER  : death
+06-02-2012 -- 12:10
+USER  : five
+06-02-2012 -- 12:11
+USER  : who
+USER  : who who
+USER  : day
+JARVIS: today it is Saturday
+USER  : to day
+JARVIS: today it is Saturday
+USER  : with
+USER  : an
+06-02-2012 -- 12:13
+USER  : new
+USER  : and
+USER  : new
+06-02-2012 -- 12:14
+06-02-2012 -- 12:17
+USER  : for
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 12:19
+USER  : the
+USER  : in
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 12:20
+Time Spent: 9 
+Commands  : 3 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 12:20
+USER  : and
+USER  : 45 times 21
+JARVIS:  945
+USER  : 200 divided by 40
+JARVIS:  5
+USER  : 2,000 divided 40
+JARVIS:  50
+USER  : 2 billion divided by 50
+JARVIS:  .04
+06-02-2012 -- 12:21
+USER  : 221,596.1 divided by 50
+JARVIS:  4431.922
+USER  : 2,221
+USER  : 221,591 time sixteen
+JARVIS: it is currently 12:21 PM
+USER  : to one earned 21,591 times sixteen
+06-02-2012 -- 12:22
+06-02-2012 -- 12:23
+USER  : but for
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 12:24
+USER  : but for
+USER  : 224*50
+USER  : 2005 * 50
+JARVIS:  100250
+USER  : the
+06-02-2012 -- 12:25
+USER  : 2012
+USER  : exho
+USER  : echo
+JARVIS: echo turned on
+USER  : 2012
+JARVIS: 2012
+USER  : move
+JARVIS: move
+USER  : it
+JARVIS: it
+USER  :  echo off
+JARVIS: echo turned off
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 12:25
+Time Spent: 47 
+Commands  : 12 
+Responses : 6 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 12:26
+USER  : and for 90 -56
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 12:26
+Time Spent: 15 
+Commands  : 2 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 12:32
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 12:33
+USER  : for
+06-02-2012 -- 12:34
+USER  : computer
+JARVIS: yes sir
+USER  : user 25 times 53
+JARVIS:  1325
+USER  : ,
+USER  : 96 -54
+JARVIS:  42
+USER  : were to
+USER  : the
+USER  : one e. five -53
+USER  : 25 -53
+JARVIS: -28
+USER  : it in the
+USER  : 243.914 times 16.3
+JARVIS:  3975.7982
+USER  : it for you to
+USER  : thank you
+JARVIS: you are welcome sir
+USER  : it for
+06-02-2012 -- 12:35
+USER  : five
+06-02-2012 -- 12:36
+USER  : new
+USER  : move to move
+USER  : 555 to
+USER  : two
+06-02-2012 -- 12:37
+USER  : to
+06-02-2012 -- 12:38
+JARVIS: your computer has been on for 37 hours, sir
+USER  : to use used
+06-02-2012 -- 12:43
+USER  : for
+USER  : a a home
+USER  : who
+USER  : had who
+USER  : now
+USER  : a
+USER  : , a a
+USER  : a a a a
+USER  : a a a
+06-02-2012 -- 12:44
+USER  : a a
+USER  : a
+06-02-2012 -- 12:45
+USER  : who
+USER  : knew
+06-02-2012 -- 12:48
+USER  : five
+USER  : (
+06-02-2012 -- 12:49
+USER  : five to
+USER  : ten
+USER  : to
+USER  : ten
+USER  : to ten to ten to
+USER  : 1010
+USER  : ten
+USER  : 1010 to ten
+06-02-2012 -- 12:50
+USER  : 1010
+USER  : to
+USER  : five
+USER  : 555
+USER  : to
+USER  : ten
+USER  : to ten
+06-02-2012 -- 12:51
+USER  : ten
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 12:53
+USER  : newsday to a second here
+USER  : computer
+JARVIS: yes sir
+USER  : user set a timer for ten seconds
+JARVIS: timer set
+USER  : and he
+JARVIS: it has been 10 seconds sir
+USER  : it for
+USER  : satire for ten seconds
+USER  : set timer for ten seconds
+JARVIS: timer set
+USER  : for set timer for twenty seconds
+JARVIS: timer set
+USER  : and he sent timer for eight seconds
+JARVIS: timer set
+USER  : and he
+JARVIS: it has been 10 seconds sir
+USER  : standby used for
+06-02-2012 -- 12:54
+JARVIS: yes sir
+USER  : user starts stopwatch
+USER  : start stopwatch
+JARVIS: starting stopwatch
+USER  : for used
+USER  : with some
+USER  : , stop stopwatch
+JARVIS: stopwatch ran for 11.75781 seconds
+USER  : , start stopwatch
+JARVIS: starting stopwatch
+USER  : recall last stopwatch
+JARVIS: last stopwatch ran for 11.75781 seconds
+USER  : for
+USER  : stop stopwatch
+JARVIS: stopwatch ran for 11.15234 seconds
+06-02-2012 -- 12:55
+USER  : for
+USER  : recall last stopwatch
+JARVIS: last stopwatch ran for 11.15234 seconds
+USER  : and
+USER  : k.
+USER  : their warships satire for ten seconds
+USER  : set timer for ten seconds
+JARVIS: timer set
+USER  : we can
+USER  : move for
+JARVIS: it has been 10 seconds sir
+USER  : for user
+USER  : to hide
+USER  : going show
+06-02-2012 -- 12:56
+USER  : a times to
+USER  : eight times to
+USER  : eight times three
+JARVIS:  24
+USER  : were
+USER  : hiding
+USER  : hide
+USER  : standby
+JARVIS: yes sir
+USER  : user turn screen off
+USER  : computer
+JARVIS: yes sir
+USER  : user screen off
+USER  : screen off
+USER  : turn off screen
+USER  : along busy
+USER  : five
+USER  : screen saver
+06-02-2012 -- 12:57
+USER  : computer
+JARVIS: yes sir
+USER  : user screen saver
+USER  : show
+USER  : screen saver
+USER  : turn monitor off
+JARVIS: monitor off
+USER  : hide
+USER  : computer
+JARVIS: yes sir
+USER  : user standby
+06-02-2012 -- 12:58
+JARVIS: yes sir
+USER  : user monitor on
+JARVIS: monitor on
+USER  : it
+06-02-2012 -- 13:10
+USER  : ten
+06-02-2012 -- 13:13
+USER  : to
+06-02-2012 -- 13:14
+USER  : computer
+JARVIS: yes sir
+USER  : user terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 13:14
+Time Spent: 1291 
+Commands  : 60 
+Responses : 25 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 13:15
+USER  : for computer
+JARVIS: yes sir
+USER  : user
+USER  : screen saver
+JARVIS: starting screensaver
+USER  : for it
+USER  : computer
+JARVIS: yes sir
+USER  : user screen saver
+JARVIS: starting screensaver
+USER  : for it
+06-02-2012 -- 13:16
+USER  : computer
+JARVIS: yes sir
+USER  : user screen saver off
+JARVIS: starting screensaver
+USER  : for it
+USER  : screen saver off
+JARVIS: starting screensaver
+USER  : for it to
+USER  : computer
+JARVIS: yes sir
+USER  : user disables screen saver
+JARVIS: starting screensaver
+USER  : for it to
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 13:17
+Time Spent: 171 
+Commands  : 16 
+Responses : 9 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 13:18
+USER  : for
+USER  : computer
+JARVIS: yes sir
+USER  : user disable screen saver
+JARVIS: screensaver disabled
+USER  : it
+USER  : enables screen saver
+JARVIS: starting screensaver
+06-02-2012 -- 13:19
+USER  : for it
+USER  : enables screen saver
+JARVIS: starting screensaver
+USER  : for it and mabel the screen saver
+JARVIS: starting screensaver
+USER  : for it
+USER  : enable screen saver
+JARVIS: screensaver enabled
+USER  : it
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : cool searchable lieu on black
+JARVIS: yes
+USER  : do will blue on black
+USER  : screen
+USER  : green
+06-02-2012 -- 13:20
+USER  : search in blue on black
+JARVIS: searching in blue on black
+USER  : for an
+USER  : he
+06-02-2012 -- 13:21
+USER  : computer computer
+JARVIS: yes sir
+JARVIS: yes sir
+USER  : user user
+USER  : computer
+JARVIS: yes sir
+USER  : user
+USER  : search by and blow
+USER  : search i marked below
+USER  : search im blue
+JARVIS: searching im blue
+USER  : for an
+06-02-2012 -- 13:22
+USER  : new the n.
+USER  : the
+USER  : death
+06-02-2012 -- 13:23
+USER  : death as who
+USER  : m.
+06-02-2012 -- 13:24
+USER  : measure
+USER  : hedge
+USER  : ,
+USER  : new
+USER  : way to measure
+USER  : a
+06-02-2012 -- 13:25
+USER  : day
+JARVIS: today it is Saturday
+USER  : tuesday
+USER  : day
+JARVIS: today it is Saturday
+06-02-2012 -- 13:26
+USER  : to saturday, who who who who who who lose to n. n. two to
+USER  : a day
+JARVIS: today it is Saturday
+USER  : day
+JARVIS: today it is Saturday
+USER  : who move who day to day
+JARVIS: today it is Saturday
+06-02-2012 -- 13:27
+USER  : to day who day
+JARVIS: today it is Saturday
+USER  : day
+JARVIS: today it is Saturday
+USER  : to seven
+USER  : five
+USER  : 555
+USER  : five
+06-02-2012 -- 13:28
+USER  : in
+USER  : new
+06-02-2012 -- 13:29
+USER  : five
+USER  : to ten
+USER  : to
+06-02-2012 -- 13:30
+USER  : the
+USER  : measure
+06-02-2012 -- 13:31
+USER  : to
+USER  : the
+USER  : two to ten and in the
+USER  : new and to
+USER  : move
+06-02-2012 -- 13:32
+USER  : to
+USER  : a
+06-02-2012 -- 13:33
+USER  : ,,
+USER  : home
+USER  : , day,
+JARVIS: today it is Saturday
+USER  : tuesday
+USER  : a home to
+USER  : who knew who who
+06-02-2012 -- 13:34
+USER  : who
+USER  : who day
+JARVIS: today it is Saturday
+USER  : tuesday
+06-02-2012 -- 13:35
+USER  : who begged good day who who
+JARVIS: yes
+USER  : who
+USER  : who who who
+06-02-2012 -- 13:36
+USER  : with n. f.
+USER  : who day who
+JARVIS: today it is Saturday
+USER  : who
+06-02-2012 -- 13:37
+USER  : in new
+USER  : n. e.
+USER  : good
+JARVIS: right
+USER  : new
+USER  : computer
+JARVIS: yes sir
+USER  : use use terminating
+USER  : the
+USER  : end
+06-02-2012 -- 13:38
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 13:38
+Time Spent: 1169 
+Commands  : 90 
+Responses : 26 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 14:20
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 14:20
+Time Spent: 5 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 14:26
+USER  : i
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : -f. s.
+USER  : yes
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : yes
+JARVIS: commencing packaging
+Error: 76 : 5376 
+06-02-2012 -- 14:27
+JARVIS: yes sir
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 14:28
+Time Spent: 116 
+Commands  : 7 
+Responses : 4 
+Errors    : 1 
+76:5376
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 14:30
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 14:31
+USER  : computer
+JARVIS: yes sir
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : yes
+JARVIS: commencing packaging
+Error: 76 : 5378 
+JARVIS: yes sir
+06-02-2012 -- 14:32
+USER  : n. with nba
+USER  : day
+JARVIS: today it is Saturday
+06-02-2012 -- 14:33
+JARVIS: today it is Saturday
+USER  : f. k. n.
+USER  : n. n. n. n. e. caldwell
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 14:35
+USER  : if
+USER  : if
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : yes
+JARVIS: commencing packaging
+Error: 76 : 5378 
+06-02-2012 -- 14:36
+JARVIS: yes sir
+USER  : n.
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 14:41
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : then who who
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+06-02-2012 -- 14:42
+USER  : yes
+JARVIS: commencing packaging
+Error: 76 : 5378 
+06-02-2012 -- 14:43
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 14:50
+USER  : good
+JARVIS: quite
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : yes
+JARVIS: commencing packaging
+Error: 76 : 5378 
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 14:50
+Time Spent: 29 
+Commands  : 3 
+Responses : 3 
+Errors    : 1 
+76:5378
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 14:54
+USER  : move to
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : yes
+JARVIS: commencing packaging
+Error: 76 : 5378 
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 14:54
+Time Spent: 19 
+Commands  : 3 
+Responses : 2 
+Errors    : 1 
+76:5378
+--------------------------------------------------------------------------------------------------------------------------------
+06-02-2012 -- 14:55
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 14:56
+USER  : good
+JARVIS: correct
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : yes
+JARVIS: commencing packaging
+06-02-2012 -- 15:04
+USER  : who
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 15:04
+USER  : recompile
+JARVIS: recompiling
+06-02-2012 -- 15:10
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : yes
+JARVIS: commencing packaging, this may take a while
+06-02-2012 -- 15:44
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-02-2012 -- 15:44
+Time Spent: 4 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-03-2012 -- 23:11
+USER  : computer
+JARVIS: yes sir
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-03-2012 -- 23:11
+Time Spent: 15 
+Commands  : 1 
+Responses : 1 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-03-2012 -- 23:15
+USER  : computer
+JARVIS: yes sir
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : yes
+JARVIS: commencing packaging, this may take a while
+06-04-2012 -- 20:16
+USER  : computer
+JARVIS: yes sir
+USER  : recompile
+JARVIS: recompiling
+06-05-2012 -- 09:36
+USER  : if
+USER  : for computer
+JARVIS: yes sir
+USER  : recompiled
+USER  : a recompile
+JARVIS: recompiling
+06-05-2012 -- 09:37
+USER  : for
+USER  : computer to
+JARVIS: yes sir
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : yes
+JARVIS: commencing packaging, this may take a while
+06-05-2012 -- 13:22
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-05-2012 -- 13:22
+Time Spent: 10 
+Commands  : 0 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-05-2012 -- 13:23
+USER  : new
+USER  : recompile
+JARVIS: recompiling
+06-05-2012 -- 13:27
+USER  : recompile
+JARVIS: recompiling
+06-05-2012 -- 13:28
+USER  : new
+USER  : recompile
+JARVIS: recompiling
+06-05-2012 -- 13:31
+USER  : new
+USER  : the new
+USER  : death
+06-05-2012 -- 13:32
+USER  : five
+USER  : recompile
+JARVIS: recompiling
+06-05-2012 -- 13:36
+USER  : movement for
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-05-2012 -- 13:36
+Time Spent: 4 
+Commands  : 1 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-05-2012 -- 13:38
+USER  : this
+USER  : for
+USER  : five
+USER  : to ten
+06-05-2012 -- 13:39
+USER  : five
+06-05-2012 -- 13:40
+USER  : death
+USER  : ten
+06-05-2012 -- 13:41
+USER  : recompile
+JARVIS: recompiling
+06-05-2012 -- 13:43
+USER  : terminate
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+ERROR : New reference count: 0x00000000
+06-05-2012 -- 13:43
+Time Spent: 9 
+Commands  : 1 
+Responses : 0 
+Errors    : 0 
+0:0
+--------------------------------------------------------------------------------------------------------------------------------
+06-05-2012 -- 13:43
+USER  : movement for
+USER  : package
+JARVIS: are you sure you want to package me for distribution?
+USER  : yes
+JARVIS: commencing packaging, this may take a while

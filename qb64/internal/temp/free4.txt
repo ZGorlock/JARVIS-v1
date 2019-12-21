@@ -1,0 +1,4 @@
+if(oldstr2778){
+if(oldstr2778->fixed)qbs_set(oldstr2778,_SUB_TXT2GUID_STRING_T);
+qbs_free(_SUB_TXT2GUID_STRING_T);
+}

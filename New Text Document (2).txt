@@ -1,0 +1,113 @@
+<!--Word of the Day by TheFreeDictionary.com-->
+<div style="width:350px;position:relative;background-color:;padding:4px">
+<div style="font:bold 12pt '';color:#000000">Word of the Day</div>
+<style>
+#WordOfTheDay {width:100%;border:1px #000000 solid;background-color:}
+#WordOfTheDay H3 {font:bold 12pt '';color:#000000}
+#WordOfTheDay TD.WoDLeft {font:bold 10pt '';color:#000000}
+#WordOfTheDay TD {font:normal 10pt '';color:#000000}
+#WordOfTheDay A {color:#0000FF}
+</style>
+<div id="tfd_wod_div" style="display:none"><table id="WordOfTheDay">
+<tr><td colspan="2" align="center"><h3 style="margin-bottom:3pt">
+<a href="http://www.thefreedictionary.com/hilarity">hilarity</a></h3></td></tr>
+<tr><td class="WoDLeft" valign="top" align="right">Definition:</td>
+<td align="left">Great merriment.</td></tr>
+<tr><td class="WoDLeft" valign="top">Synonyms:</td><td>
+<a href="http://www.thefreedictionary.com/glee">glee</a>, 
+<a href="http://www.thefreedictionary.com/mirthfulness">mirthfulness</a>
+</td></tr></table></div>
+<script type="text/javascript" src="http://img.tfd.com/daily/wod-top.js" charset="UTF-8"></script>
+<script type="text/javascript">document.getElementById("tfd_wod_div").style.display=""</script>
+<div style="font:normal 8pt '';color:#000000">
+<a style="color:#000000" href="http://www.thefreedictionary.com/lookup.htm#Word-of-the-Day" rel="nofollow">Word of the Day</a>
+provided by <a style="color:#000000" href="http://www.thefreedictionary.com/">TheFreeDictionary</a>
+</div></div>
+<!--end of Word of the Day-->
+<br/>
+<!--Article of the Day by TheFreeDictionary.com-->
+<div style="width:350px;position:relative;background-color:;padding:4px">
+<div style="font:bold 12pt '';color:#000000">Article of the Day</div>
+<style>
+#ArticleOfTheDay {width:100%;border:1px #000000 solid;background-color:}
+#ArticleOfTheDay H3 {margin-top:0px;font:bold 12pt '';color:#000000}
+#ArticleOfTheDay TD {font:normal 10pt '';color:#000000}
+#ArticleOfTheDay A {color:#0000FF}
+</style>
+<script type="text/javascript"
+src="http://img.tfd.com/daily/article-top.js" charset="UTF-8"></script>
+<div style="font:normal 8pt '';color:#000000">
+<a style="color:#000000" href="http://www.thefreedictionary.com/lookup.htm#Article-of-the-Day" rel="nofollow">Article of the Day</a>
+provided by <a style="color:#000000" href="http://www.thefreedictionary.com/">TheFreeDictionary</a>
+</div></div>
+<!--end of Article of the Day-->
+<br/>
+<!--This Day in History by TheFreeDictionary.com-->
+<div style="width:350px;position:relative;background-color:;padding:4px">
+<div style="font:bold 12pt '';color:#000000">This Day in History</div>
+<style>
+#TodaysHistory {width:100%;border:1px #000000 solid;background-color:}
+#TodaysHistory H3 {margin-top:0px;font:bold 12pt '';color:#000000}
+#TodaysHistory TD {font:normal 10pt '';color:#000000}
+#TodaysHistory A {color:#0000FF}
+</style>
+<script type="text/javascript"
+src="http://img.tfd.com/daily/history-top.js" charset="UTF-8"></script>
+<div style="font:normal 8pt '';color:#000000">
+<a style="color:#000000" href="http://www.thefreedictionary.com/lookup.htm#This-Day-in-History" rel="nofollow">This Day in History</a>
+provided by <a style="color:#000000" href="http://www.thefreedictionary.com/">TheFreeDictionary</a>
+</div></div>
+<!--end of This Day in History-->
+<br/>
+<!--Today's Birthday by TheFreeDictionary.com-->
+<div style="width:350px;position:relative;background-color:;padding:4px">
+<div style="font:bold 12pt '';color:#000000">Today's Birthday</div>
+<style>
+#TodaysBirthday {width:100%;border:1px #000000 solid;background-color:}
+#TodaysBirthday H3 {margin-top:0px;font:bold 12pt '';color:#000000}
+#TodaysBirthday TD {font:normal 10pt '';color:#000000}
+#TodaysBirthday A {color:#0000FF}
+</style>
+<script type="text/javascript"
+src="http://img.tfd.com/daily/birthday-top.js" charset="UTF-8"></script>
+<div style="font:normal 8pt '';color:#000000">
+<a style="color:#000000" href="http://www.thefreedictionary.com/lookup.htm#Today's-Birthday" rel="nofollow">Today's Birthday</a>
+provided by <a style="color:#000000" href="http://www.thefreedictionary.com/">TheFreeDictionary</a>
+</div></div>
+<!--end of Today's Birthday-->
+<br/>
+<!--In the News by TheFreeDictionary.com-->
+<div style="width:350px;position:relative;background-color:;padding:4px">
+<div style="font:bold 12pt '';color:#000000">In the News</div>
+<style>
+#InTheNews {width:100%;border:1px #000000 solid;background-color:}
+#InTheNews H3 {margin-top:0px;font:bold 12pt '';color:#000000}
+#InTheNews TD {font:normal 10pt '';color:#000000}
+#InTheNews A {color:#0000FF}
+</style>
+<script type="text/javascript"
+src="http://img.tfd.com/daily/news-top.js" charset="UTF-8"></script>
+<div style="font:normal 8pt '';color:#000000">
+<a style="color:#000000" href="http://www.thefreedictionary.com/lookup.htm#In-the-News" rel="nofollow">In the News</a>
+provided by <a style="color:#000000" href="http://www.thefreedictionary.com/">TheFreeDictionary</a>
+</div></div>
+<!--end of In the News-->
+<br/>
+<!--Quote of the Day by TheFreeDictionary.com-->
+<div style="width:350px;position:relative;background-color:;padding:4px">
+<div style="font:bold 12pt '';color:#000000">Quote of the Day</div>
+<style>
+#QuoteOfTheDay {width:100%;border:1px #000000 solid;background-color:}
+#QuoteOfTheDay TD {font:normal 10pt '';color:#000000}
+#QuoteOfTheDay A {color:#0000FF}
+</style><div id="tfd_quote_div" style="display:none">
+<table id="QuoteOfTheDay"><tr><td align="left">
+If I got places, sir, it was because I made myself fit for 'em. If you want to slip into a round hole, you must make a ball of yourself.
+<br/><b><a href="http://encyclopedia2.thefreedictionary.com/Eliot,+George">George Eliot</a></b><br/>(1819-1880)</td></tr></table></div><script type="text/javascript"
+src="http://img.tfd.com/daily/quote-top.js" charset="UTF-8"></script>
+<script type="text/javascript">document.getElementById("tfd_quote_div").style.display=""</script>
+<div style="font:normal 8pt '';color:#000000">
+<a style="color:#000000" href="http://www.thefreedictionary.com/lookup.htm#Quote-of-the-Day" rel="nofollow">Quote of the Day</a>
+provided by <a style="color:#000000" href="http://www.thefreelibrary.com/">The Free Library</a>
+</div></div>
+<!--end of Quote of the Day-->

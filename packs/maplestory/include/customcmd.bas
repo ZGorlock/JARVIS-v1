@@ -1,0 +1,1 @@
+'$include:'..\packs\maplestory\source\maplestory_pack.bas'
